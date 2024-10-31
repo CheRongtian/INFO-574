@@ -9,7 +9,7 @@
 -1.1 SampleSuperstore.csv:\
 https://www.kaggle.com/datasets/roopacalistus/superstore/data
 
--2.1 Grocery_Store_Locations.csv:\
+-1.2 Grocery_Store_Locations.csv:\
 https://catalog.data.gov/dataset/grocery-store-locations
 #### 2. Illness:
 -2.1 data-table.csv:\
