@@ -6,14 +6,24 @@
 4. Professor: Shanti Greene
 ### Datasets:
 #### 1. Groceries:
--1.1 SampleSuperstore.csv:\
-https://www.kaggle.com/datasets/roopacalistus/superstore/data
+-1.1 store_info.csv:\
+https://www.kaggle.com/datasets/evansimpson/trader-joes-locations
 
--1.2 Grocery_Store_Locations.csv:\
-https://catalog.data.gov/dataset/grocery-store-locations
+-1.2 walmart_2018_11_06.csv:\
+https://www.kaggle.com/datasets/thedevastator/walmart-store-locations-across-the-united-states
+
+-1.3 original_wf_data.csv:\
+https://www.kaggle.com/datasets/adu47249/whole-foods
+
+-1.4 target.csv, targets.csv:\
+https://www.kaggle.com/datasets/ben1989/target-store-dataset
+
+-1.5 kroger_store.csv:\
+https://www.kaggle.com/datasets/thedevastator/kroger-store-locations-available-for-research
+
+-1.6 costco_store.csv:\
+https://www.kaggle.com/datasets/polartech/complete-store-locations-of-costco
+
 #### 2. Illness:
 -2.1 data-table.csv:\
 https://www.cdc.gov/nchs/pressroom/sosmap/heart_disease_mortality/heart_disease.htm
-
--2.2 Heart_Disease_Mortality_Data_Among_US_Adults__35___by_State_Territory_and_County___2018-2020.csv:\
-https://healthdata.gov/dataset/Heart-Disease-Mortality-Data-Among-US-Adults-35-by/ezn3-rzyi/data

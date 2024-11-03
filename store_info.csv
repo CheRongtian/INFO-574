@@ -1,0 +1,522 @@
+store_name,street,city,state,zip,landline,mobile,website
+Trader Joe's Rancho Palos Verdes (233),31176 Hawthorne Blvd,Rancho Palos Verdes,CA,90275,310-544-1727,310-544-1727,https://locations.traderjoes.com/ca/rancho-palos-verdes/233/
+Trader Joe's Charlotte (744),1133 Metropolitan Ave,Charlotte,NC,28204,704-334-0737,704-334-0737,https://locations.traderjoes.com/nc/charlotte/744/
+Trader Joe's Sunnyvale (68),316 West El Camino Real,Sunnyvale,CA,94087,408-736-7573,408-736-7573,https://locations.traderjoes.com/ca/sunnyvale/68/
+Trader Joe's Corona (213),2790 Cabot Dr,Corona,CA,92883,951-603-0299,951-603-0299,https://locations.traderjoes.com/ca/corona/213/
+Trader Joe's El Cerrito (108),225 El Cerrito Plaza,El Cerrito,CA,94530,510-524-7609,510-524-7609,https://locations.traderjoes.com/ca/el-cerrito/108/
+Trader Joe's Pasadena (51),610 S Arroyo Pkwy,Pasadena,CA,91105,626-568-9254,626-568-9254,https://locations.traderjoes.com/ca/pasadena/51/
+Trader Joe's San Francisco - Pacific Place (225),10 4th Street,San Francisco,CA,94103,415-536-7801,415-536-7801,https://locations.traderjoes.com/ca/san-francisco/225/
+Trader Joe's Lexington Wine (626),2320 Nicholasville Road,Lexington,KY,40503,859-277-0144,859-277-0144,https://locations.traderjoes.com/ky/lexington/626/
+Trader Joe's Kent (163),12966 SE Kent-Kangley Rd,Kent,WA,98030,253-639-3419,253-639-3419,https://locations.traderjoes.com/wa/kent/163/
+Trader Joe's Rancho Santa Margarita (27),30652 Santa Margarita Pkwy,Rancho Santa Margarita,CA,92688,949-888-3640,949-888-3640,https://locations.traderjoes.com/ca/rancho-santa-margarita/27/
+Trader Joe's Northbrook (682),127 Skokie Blvd,Northbrook,IL,60062,847-480-9280,847-480-9280,https://locations.traderjoes.com/il/northbrook/682/
+Trader Joe's San Jose - Coleman Ave (212),635 Coleman Ave,San Jose,CA,95110,408-298-9731,408-298-9731,https://locations.traderjoes.com/ca/san-jose/212/
+Trader Joe's Hyannis (514),655 Iyannough Road Rt 132,Hyannis,MA,02601,508-790-3008,508-790-3008,https://locations.traderjoes.com/ma/hyannis/514/
+Trader Joe's Long Beach - PCH (43),6451 E Pacific Coast  Hwy,Long Beach,CA,90803,562-596-4388,562-596-4388,https://locations.traderjoes.com/ca/long-beach/43/
+Trader Joe's Oro Valley (96),7912 N Oracle,Oro Valley,AZ,85704,520-797-4207,520-797-4207,https://locations.traderjoes.com/az/oro-valley/96/
+Trader Joe's Fair Oaks (71),5309 Sunrise Blvd,Fair Oaks,CA,95628,916-863-1744,916-863-1744,https://locations.traderjoes.com/ca/fair-oaks/71/
+Trader Joe's West Hollywood (173),8611 Santa Monica Blvd,West Hollywood,CA,90069,310-657-0152,310-657-0152,https://locations.traderjoes.com/ca/west-hollywood/173/
+Trader Joe's Dublin (672),6355 Sawmill Rd,Dublin,OH,43017,614-793-8505,614-793-8505,https://locations.traderjoes.com/oh/dublin/672/
+Trader Joe's Clifton (610),259 Allwood Road,Clifton,NJ,07012,973-777-5020,973-777-5020,https://locations.traderjoes.com/nj/clifton/610/
+Trader Joe's Rochester Hills (668),3044 Walton Blvd,Rochester Hills,MI,48309,248-375-2190,248-375-2190,https://locations.traderjoes.com/mi/rochester-hills/668/
+Trader Joe's Phoenix - Town & Country (90),4821 N 20th St,Phoenix,AZ,85016,602-912-9022,602-912-9022,https://locations.traderjoes.com/az/phoenix/90/
+Trader Joe's Warwick (518),1000 Bald Hill Rd,Warwick,RI,02886,401-821-5368,401-821-5368,https://locations.traderjoes.com/ri/warwick/518/
+Trader Joe's Ashburn (619),44755 Brimfield Dr,Ashburn,VA,20147,703-858-5993,703-858-5993,https://locations.traderjoes.com/va/ashburn/619/
+Trader Joe's Burbank (124),214 E Alameda Ave,Burbank,CA,91502,818-848-4299,818-848-4299,https://locations.traderjoes.com/ca/burbank/124/
+Trader Joe's Chesterfield (693),1679 Clarkson Rd,Chesterfield,MO,63017,636-536-7846,636-536-7846,https://locations.traderjoes.com/mo/chesterfield/693/
+Trader Joe's Colorado Springs (305),5342 N Nevada Ave,Colorado Springs,CO,80918,719-264-0123,719-264-0123,https://locations.traderjoes.com/co/colorado-springs/305/
+Trader Joe's San Francisco - 9th St (78),555 9th St,San Francisco,CA,94103,415-863-1292,415-863-1292,https://locations.traderjoes.com/ca/san-francisco/78/
+Trader Joe's Riverside (15),6225 Riverside Plaza,Riverside,CA,92506,951-781-2378,951-781-2378,https://locations.traderjoes.com/ca/riverside/15/
+Trader Joe's Fort Lauderdale (776),1560 N Federal Hwy,Fort Lauderdale,FL,33304,954-537-3585,954-537-3585,https://locations.traderjoes.com/fl/fort-lauderdale/776/
+Trader Joe's South San Francisco (187),301 MC Lellan Dr,South San Francisco,CA,94080,650-583-6401,650-583-6401,https://locations.traderjoes.com/ca/south-san-francisco/187/
+Trader Joe's Pittsburgh (638),6343 Penn Ave,Pittsburgh,PA,15206,412-363-5748,412-363-5748,https://locations.traderjoes.com/pa/pittsburgh/638/
+Trader Joe's Daly City (74),417 Westlake Center,Daly City,CA,94015,650-755-3825,650-755-3825,https://locations.traderjoes.com/ca/daly-city/74/
+Trader Joe's N Scottsdale (87),7555 E Frank Lloyd Wright,Scottsdale,AZ,85260,480-367-8920,480-367-8920,https://locations.traderjoes.com/az/scottsdale/87/
+Trader Joe's Berkeley (186),1885 University Ave,Berkeley,CA,94703,510-204-9074,510-204-9074,https://locations.traderjoes.com/ca/berkeley/186/
+Trader Joe's Saugus (506),358 Broadway,Saugus,MA,01906,781-231-0848,781-231-0848,https://locations.traderjoes.com/ma/saugus/506/
+Trader Joe's Hanover (513),1775 Washington St,Hanover,MA,02339,781-826-5389,781-826-5389,https://locations.traderjoes.com/ma/hanover/513/
+Trader Joe's Hyde Park (706),1528 E 55th Street,Chicago,IL,60615,773-363-8831,773-363-8831,https://locations.traderjoes.com/il/chicago/706/
+Trader Joe's Millbrae (170),765 Broadway,Millbrae,CA,94030,650-259-9142,650-259-9142,https://locations.traderjoes.com/ca/millbrae/170/
+Trader Joe's Templeton (211),1111 Rossi Road,Templeton,CA,93465,805-434-9562,805-434-9562,https://locations.traderjoes.com/ca/templeton/211/
+Trader Joe's Westlake (677),175 Market St,Westlake,OH,44145,440-250-1592,440-250-1592,https://locations.traderjoes.com/oh/westlake/677/
+Trader Joe's Raleigh (746),3000 Wake Forest Rd,Raleigh,NC,27609,919-981-7422,919-981-7422,https://locations.traderjoes.com/nc/raleigh/746/
+Trader Joe's Sammamish (160),490 228th Ave NE,Sammamish,WA,98074,425-836-0837,425-836-0837,https://locations.traderjoes.com/wa/sammamish/160/
+Trader Joe's Santa Barbara (183),3025 De La Vina St,Santa Barbara,CA,93105,805-563-7383,805-563-7383,https://locations.traderjoes.com/ca/santa-barbara/183/
+Trader Joe's Ardmore (635),112 Coulter Ave,Ardmore,PA,19003,610-658-0645,610-658-0645,https://locations.traderjoes.com/pa/ardmore/635/
+Trader Joe's Livermore (208),1122 A East Stanley Blvd,Livermore,CA,94550,925-243-1947,925-243-1947,https://locations.traderjoes.com/ca/livermore/208/
+Trader Joe's Valencia (13),26517 Bouquet Canyon Rd,Santa Clarita,CA,91350,661-263-3796,661-263-3796,https://locations.traderjoes.com/ca/santa-clarita/13/
+Trader Joe's Long Beach - Bellflower Blvd (194),2222 North Bellflower Blvd,Long Beach,CA,90815,562-596-2514,562-596-2514,https://locations.traderjoes.com/ca/long-beach/194/
+Trader Joe's Walnut Creek (123),1372 S California Blvd,Walnut Creek,CA,94596,925-945-1674,925-945-1674,https://locations.traderjoes.com/ca/walnut-creek/123/
+Trader Joe's Centreville (654),14100 Lee Hwy,Centreville,VA,20120,703-815-0697,703-815-0697,https://locations.traderjoes.com/va/centreville/654/
+Trader Joe's Arroyo Grande (117),955 Rancho Pkwy,Arroyo Grande,CA,93420,805-474-6114,805-474-6114,https://locations.traderjoes.com/ca/arroyo-grande/117/
+Trader Joe's Hollywood (206),1600 N Vine St,Los Angeles,CA,90028,323-856-0689,323-856-0689,https://locations.traderjoes.com/ca/los-angeles/206/
+Trader Joe's Larkspur (235),2052 Redwood Hwy,Greenbrae,CA,94904,415-945-7955,415-945-7955,https://locations.traderjoes.com/ca/greenbrae/235/
+Trader Joe's Denver Grocery (300),750 N Colorado Blvd,Denver,CO,80206,303-321-1003,303-321-1003,https://locations.traderjoes.com/co/denver/300/
+Trader Joe's Palm Beach Gardens (772),2560 PGA Blvd,Palm Beach Gardens,FL,33410,561-514-6455,561-514-6455,https://locations.traderjoes.com/fl/palm-beach-gardens/772/
+Trader Joe's San Carlos (174),1482 El Camino Real,San Carlos,CA,94070,650-594-2138,650-594-2138,https://locations.traderjoes.com/ca/san-carlos/174/
+Trader Joe's Redding (219),845 Browning St,Redding,CA,96003,530-223-4875,530-223-4875,https://locations.traderjoes.com/ca/redding/219/
+Trader Joe's Manhattan Beach - Rosecrans Blvd (106),1800 Rosecrans Blvd,Manhattan Beach,CA,90266,310-725-9800,310-725-9800,https://locations.traderjoes.com/ca/manhattan-beach/106/
+Trader Joe's Sherman Oaks (49),14119 Riverside Dr,Sherman Oaks,CA,91423,818-789-2771,818-789-2771,https://locations.traderjoes.com/ca/sherman-oaks/49/
+Trader Joe's Claremont (214),475 W Foothill Blvd,Claremont,CA,91711,909-625-8784,909-625-8784,https://locations.traderjoes.com/ca/claremont/214/
+Trader Joe's Wilmington (747),1437 S College Rd,Wilmington,NC,28403,910-395-5173,910-395-5173,https://locations.traderjoes.com/nc/wilmington/747/
+Trader Joe's Roseville (80),1117 Roseville Square,Roseville,CA,95678,916-784-9084,916-784-9084,https://locations.traderjoes.com/ca/roseville/80/
+Trader Joe's Chino Hills (216),13911 Peyton Drive,Chino Hills,CA,91709,909-627-1404,909-627-1404,https://locations.traderjoes.com/ca/chino-hills/216/
+Trader Joe's Whittier (48),15025 E Whittier Blvd,Whittier,CA,90603,562-698-1642,562-698-1642,https://locations.traderjoes.com/ca/whittier/48/
+Trader Joe's Lexington Grocery (627),2326 Nicholasville Rd,Lexington,KY,40503,859-313-5030,859-313-5030,https://locations.traderjoes.com/ky/lexington/627/
+Trader Joe's Bridgewater (614),315 Promenade Blvd,Bridgewater,NJ,08807,732-805-0268,732-805-0268,https://locations.traderjoes.com/nj/bridgewater/614/
+Trader Joe's Newbury Park (243),125 N Reino Road,Thousand Oaks,CA,91320,805-375-1984,805-375-1984,https://locations.traderjoes.com/ca/thousand-oaks/243/
+Trader Joe's Mission Viejo (126),25410 Marguerite Pkwy,Mission Viejo,CA,92692,949-581-5638,949-581-5638,https://locations.traderjoes.com/ca/mission-viejo/126/
+Trader Joe's Salt Lake City (350),634 East 400 South,Salt Lake City,UT,84102,801-359-2462,801-359-2462,https://locations.traderjoes.com/ut/salt-lake-city/350/
+Trader Joe's Allston (561),199 North Harvard Street,Allston,MA,02134,617-787-1238,617-787-1238,https://locations.traderjoes.com/ma/allston/561/
+Trader Joe's Larchmont (532),1260 Boston Post Rd,Larchmont,NY,10538,914-833-9110,914-833-9110,https://locations.traderjoes.com/ny/larchmont/532/
+Trader Joe's Dallas  -  Lower Greenville (403),2001 Greenville Ave,Dallas,TX,75206,469-334-0614,469-334-0614,https://locations.traderjoes.com/tx/dallas/403/
+Trader Joe's San Antonio - Sonterra Village (455),403 N Loop 1604 W,San Antonio,TX,78232,210-545-3123,210-545-3123,https://locations.traderjoes.com/tx/san-antonio/455/
+Trader Joe's Arch St. (618),1324 Arch St.,Philadelphia,PA,19107,215-563-2170,215-563-2170,https://locations.traderjoes.com/pa/philadelphia/618/
+Trader Joe's Northville (667),18771 Traditions Drive,Northville,MI,48167,248-349-4909,248-349-4909,https://locations.traderjoes.com/mi/northville/667/
+Trader Joe's Chicago (688),3745 N Lincoln Ave,Chicago,IL,60613,773-248-4920,773-248-4920,https://locations.traderjoes.com/il/chicago/688/
+Trader Joe's Sacramento (175),5000 Folsom Blvd,Sacramento,CA,95819,916-456-1853,916-456-1853,https://locations.traderjoes.com/ca/sacramento/175/
+Trader Joe's Bellevue (162),416 116th Ave NE,Bellevue,WA,98004,425-454-9799,425-454-9799,https://locations.traderjoes.com/wa/bellevue/162/
+Trader Joe's Plano (402),2400 Preston Rd,Plano,TX,75093,972-312-9538,972-312-9538,https://locations.traderjoes.com/tx/plano/402/
+Trader Joe's Pinole (230),2742 Pinole Valley Rd,Pinole,CA,94564,510-222-3501,510-222-3501,https://locations.traderjoes.com/ca/pinole/230/
+Trader Joe's Minneapolis (725),721 Washington Ave S,Minneapolis,MN,55415,612-339-2110,612-339-2110,https://locations.traderjoes.com/mn/minneapolis/725/
+Trader Joe's Creve Coeur (694),11505 Olive Blvd,Creve Coeur,MO,63141,314-569-0427,314-569-0427,https://locations.traderjoes.com/mo/creve-coeur/694/
+Trader Joe's Jenkintown (633),933 Old York Rd,Jenkintown,PA,19046,215-885-5240,215-885-5240,https://locations.traderjoes.com/pa/jenkintown/633/
+Trader Joe's Torrance - Hawthorne Blvd (121),19720 Hawthorne Blvd,Torrance,CA,90503,310-793-8585,310-793-8585,https://locations.traderjoes.com/ca/torrance/121/
+Trader Joe's Los Angeles (31),263 S La Brea Ave,Los Angeles,CA,90036,323-965-1989,323-965-1989,https://locations.traderjoes.com/ca/los-angeles/31/
+Trader Joe's Santa Ana (113),3329 S Bristol St,Santa Ana,CA,92704,714-424-9304,714-424-9304,https://locations.traderjoes.com/ca/santa-ana/113/
+Trader Joe's Delray Beach (771),1851 S Federal Highway #500,Delray Beach,FL,33483,561-278-1493,561-278-1493,https://locations.traderjoes.com/fl/delray-beach/771/
+Trader Joe's Royal Oak (674),27880 Woodward Ave,Royal Oak,MI,48067,248-582-9002,248-582-9002,https://locations.traderjoes.com/mi/royal-oak/674/
+Trader Joe's Alexandria (647),612 N Saint Asaph St,Alexandria,VA,22314,703-548-0611,703-548-0611,https://locations.traderjoes.com/va/alexandria/647/
+Trader Joe's Carson City (281),3790 US Hwy 395 S,Carson City,NV,89705,775-267-2486,775-267-2486,https://locations.traderjoes.com/nv/carson-city/281/
+Trader Joe's Lake Grove (556),2085 Smith Haven Plaza,Lake Grove,NY,11755,631-366-2094,631-366-2094,https://locations.traderjoes.com/ny/lake-grove/556/
+Trader Joe's Chatsworth (184),10330 Mason Ave,Chatsworth,CA,91311,818-341-3010,818-341-3010,https://locations.traderjoes.com/ca/chatsworth/184/
+Trader Joe's Brentwood (201),5451 Lone Tree Way,Brentwood,CA,94513,925-516-3044,925-516-3044,https://locations.traderjoes.com/ca/brentwood/201/
+Trader Joe's Brea (11),2500 E Imperial Hwy,Brea,CA,92821,714-257-1180,714-257-1180,https://locations.traderjoes.com/ca/brea/11/
+Trader Joe's Wayne (603),910 Hamburg Turnpike,Wayne,NJ,07470,973-872-4604,973-872-4604,https://locations.traderjoes.com/nj/wayne/603/
+Trader Joe's Orem (352),440 East Park Avenue,Orem,UT,84097,801-224-1453,801-224-1453,https://locations.traderjoes.com/ut/orem/352/
+Trader Joe's Glenview (681),1407 Waukegan Rd,Glenview,IL,60025,847-657-7821,847-657-7821,https://locations.traderjoes.com/il/glenview/681/
+Trader Joe's Queen Creek (286),21186 S. Ellsworth Loop Rd,Queen Creek,AZ,85142,480-877-7213,480-877-7213,https://locations.traderjoes.com/az/queen-creek/286/
+Trader Joe's Portland SE (143),4715 SE Cesar Chavez Blvd,Portland,OR,97202,503-777-1601,503-777-1601,https://locations.traderjoes.com/or/portland/143/
+Trader Joe's Los Gatos (181),15466 Los Gatos Blvd,Los Gatos,CA,95032,408-356-2324,408-356-2324,https://locations.traderjoes.com/ca/los-gatos/181/
+Trader Joe's Evanston (702),1211 Chicago Avenue,Evanston,IL,60202,847-733-0690,847-733-0690,https://locations.traderjoes.com/il/evanston/702/
+Trader Joe's Denver Wine (310),790 N Colorado Blvd,Denver,CO,80206,303-321-3245,303-321-3245,https://locations.traderjoes.com/co/denver/310/
+Trader Joe's Chula Vista (120),878 Eastlake Pkwy,Chula Vista,CA,91914,619-656-5370,619-656-5370,https://locations.traderjoes.com/ca/chula-vista/120/
+Trader Joe's Westchester (33),8645 S Sepulveda,Westchester,CA,90045,310-338-9238,310-338-9238,https://locations.traderjoes.com/ca/westchester/33/
+Trader Joe's Kettering (673),328 East Stroop Rd,Kettering,OH,45429,937-294-5411,937-294-5411,https://locations.traderjoes.com/oh/kettering/673/
+Trader Joe's Brookline (501),1317 Beacon St,Brookline,MA,02446,617-278-9997,617-278-9997,https://locations.traderjoes.com/ma/brookline/501/
+Trader Joe's Rochester (534),3349 Monroe Ave,Rochester,NY,14618,585-248-5011,585-248-5011,https://locations.traderjoes.com/ny/rochester/534/
+Trader Joe's Coral Springs (782),2796 N. University Drive,Coral Springs,FL,33065,954-227-3407,954-227-3407,https://locations.traderjoes.com/fl/coral-springs/782/
+Trader Joe's Nashua (507),262 Daniel Webster HWY,Nashua,NH,03060,603-888-5460,603-888-5460,https://locations.traderjoes.com/nh/nashua/507/
+Trader Joe's West Hartford (526),1489 New Britain Ave,West Hartford,CT,06110,860-561-4771,860-561-4771,https://locations.traderjoes.com/ct/west-hartford/526/
+Trader Joe's Hadley (512),375 Russell St,Hadley,MA,01035,413-587-3260,413-587-3260,https://locations.traderjoes.com/ma/hadley/512/
+Trader Joe's Brick (615),110 Brick Plaza,Brick,NJ,08723,732-477-4781,732-477-4781,https://locations.traderjoes.com/nj/brick/615/
+Trader Joe's Annapolis (650),160 F Jennifer Rd,Annapolis,MD,21401,410-573-0505,410-573-0505,https://locations.traderjoes.com/md/annapolis/650/
+Trader Joe's Boston - Back Bay (510),899 Boylston St,Boston,MA,02115,617-262-6505,617-262-6505,https://locations.traderjoes.com/ma/boston/510/
+Trader Joe's Falls Church - Tyson's Station (641),7514 Leesburg Turnpike,Falls Church,VA,22043,703-288-0566,703-288-0566,https://locations.traderjoes.com/va/falls-church/641/
+Trader Joe's Woodland Hills (209),21055 Ventura Blvd,Woodland Hills,CA,91364,818-712-9475,818-712-9475,https://locations.traderjoes.com/ca/woodland-hills/209/
+Trader Joe's Westport (521),400 Post Road E,Westport,CT,06880,203-226-8966,203-226-8966,https://locations.traderjoes.com/ct/westport/521/
+Trader Joe's Cambridge (502),748 Memorial Dr,Cambridge,MA,02139,617-491-8582,617-491-8582,https://locations.traderjoes.com/ma/cambridge/502/
+Trader Joe's Bellevue (131),15563 NE 24th St,Bellevue,WA,98007,425-641-5069,425-641-5069,https://locations.traderjoes.com/wa/bellevue/131/
+Trader Joe's Goleta (110),5767 Calle Real,Goleta,CA,93117,805-692-2234,805-692-2234,https://locations.traderjoes.com/ca/goleta/110/
+Trader Joe's Shoreview (727),1041 Red Fox Rd,Shoreview,MN,55126,651-765-1398,651-765-1398,https://locations.traderjoes.com/mn/shoreview/727/
+Trader Joe's Edgewater (606),715 River Rd,Edgewater,NJ,07020,201-945-5932,201-945-5932,https://locations.traderjoes.com/nj/edgewater/606/
+Trader Joe's Freehold (590),4331 Route 9 Unit 3,Freehold,NJ,07728,732-462-1539,732-462-1539,https://locations.traderjoes.com/nj/freehold/590/
+Trader Joe's Oceanside (22),2570 Vista Way,Oceanside,CA,92054,760-433-9994,760-433-9994,https://locations.traderjoes.com/ca/oceanside/22/
+Trader Joe's Culver City (36),9290 Culver Blvd,Culver City,CA,90232,310-202-1108,310-202-1108,https://locations.traderjoes.com/ca/culver-city/36/
+Trader Joe's Winter Park (765),131 Orlando Ave.,Winter Park,FL,32789,407-622-0874,407-622-0874,https://locations.traderjoes.com/fl/winter-park/765/
+Trader Joe's Indianapolis - W 86th (670),2902 W 86th St,Indianapolis,IN,46268,317-337-1880,317-337-1880,https://locations.traderjoes.com/in/indianapolis/670/
+Trader Joe's Laguna Hills (39),24231 Avenida De La Carlota,Laguna Hills,CA,92653,949-461-0927,949-461-0927,https://locations.traderjoes.com/ca/laguna-hills/39/
+Trader Joe's University Place (148),3800 Bridgeport Way W,University Place,WA,98466,253-460-2672,253-460-2672,https://locations.traderjoes.com/wa/university-place/148/
+Trader Joe's Kansas City (720),8600 Ward Pkwy,Kansas City,MO,64114,816-333-5322,816-333-5322,https://locations.traderjoes.com/mo/kansas-city/720/
+Trader Joe's Stockton (76),6535 Pacific Ave,Stockton,CA,95207,209-951-7597,209-951-7597,https://locations.traderjoes.com/ca/stockton/76/
+Trader Joe's Westwood (234),1000 Glendon Ave,Los Angeles,CA,90024,310-824-1495,310-824-1495,https://locations.traderjoes.com/ca/los-angeles/234/
+Trader Joe's Rancho Palos Verdes - S. Western Ave. (57),28901 S Western Ave,Rancho Palos Verdes,CA,90275,310-832-1241,310-832-1241,https://locations.traderjoes.com/ca/rancho-palos-verdes/57/
+Trader Joe's Woodbury (715),8960 Hudson Rd. Ste. 801,Woodbury,MN,55125,651-735-0269,651-735-0269,https://locations.traderjoes.com/mn/woodbury/715/
+Trader Joe's W Des Moines (721),6305 Mills Civic Pkwy,West Des Moines,IA,50266,515-225-3820,515-225-3820,https://locations.traderjoes.com/ia/west-des-moines/721/
+Trader Joe's Greenwood Village (303),Greenwood Village,CO,80121,303-730-3848,303-730-3848,https://locations.traderjoes.com/co/greenwood-village/303/,
+Trader Joe's Calabasas (254),23741 Calabasas Rd.,Calabasas,CA,91302,818-591-6758,818-591-6758,https://locations.traderjoes.com/ca/calabasas/254/
+Trader Joe's East Village (546),436 East 14th St,New York,NY,10009,212-777-9412,212-777-9412,https://locations.traderjoes.com/ny/new-york/546/
+Trader Joe's Reston (646),11958 Killingsworth Ave,Reston,VA,20194,703-689-0865,703-689-0865,https://locations.traderjoes.com/va/reston/646/
+Trader Joe's Torrance - Rolling Hills Plaza (29),2545 Pacific Coast Hwy,Torrance,CA,90505,310-326-9520,310-326-9520,https://locations.traderjoes.com/ca/torrance/29/
+Trader Joe's North Hollywood (252),6130 Laurel Canyon Bl,North Hollywood,CA,91606,818-762-2963,818-762-2963,https://locations.traderjoes.com/ca/north-hollywood/252/
+Trader Joe's Little Rock (756),11500 Financial Centre Pky,Little Rock,AR,72211,501-954-7659,501-954-7659,https://locations.traderjoes.com/ar/little-rock/756/
+Trader Joe's Pasadena - S Lake Ave (179),345 S Lake Ave,Pasadena,CA,91101,626-395-9553,626-395-9553,https://locations.traderjoes.com/ca/pasadena/179/
+Trader Joe's Grosse Pointe (665),17028 Kercheval Ave,Grosse Pointe,MI,48230,313-640-7794,313-640-7794,https://locations.traderjoes.com/mi/grosse-pointe/665/
+Trader Joe's Alameda (109),2217 South Shore Center,Alameda,CA,94501,510-769-5450,510-769-5450,https://locations.traderjoes.com/ca/alameda/109/
+Trader Joe's Newport Beach (125),8086 E Pacific Coast Hwy,Newport Beach,CA,92657,949-494-7404,949-494-7404,https://locations.traderjoes.com/ca/newport-beach/125/
+Trader Joe's Toluca Lake (54),10130 Riverside Dr,Toluca Lake,CA,91602,818-762-2787,818-762-2787,https://locations.traderjoes.com/ca/toluca-lake/54/
+Trader Joe's San Mateo - Grant St (67),1820-22 S Grant Street,San Mateo,CA,94402,650-570-6140,650-570-6140,https://locations.traderjoes.com/ca/san-mateo/67/
+Trader Joe's Tucson - Crossroads (88),4766 E Grant Rd,Tucson,AZ,85712,520-323-4500,520-323-4500,https://locations.traderjoes.com/az/tucson/88/
+Trader Joe's North Potomac (648),10076 Darnestown Rd,Rockville,MD,20850,301-762-0782,301-762-0782,https://locations.traderjoes.com/md/rockville/648/
+Trader Joe's Glen Ellyn (680),680 Roosevelt Rd,Glen Ellyn,IL,60137,630-858-5077,630-858-5077,https://locations.traderjoes.com/il/glen-ellyn/680/
+Trader Joe's Paradise Valley (282),4726 East Shea Blvd,Phoenix,AZ,85028,602-485-7788,602-485-7788,https://locations.traderjoes.com/az/phoenix/282/
+Trader Joe's Birmingham (737),Birmingham,AL,35243,205-969-7801,205-969-7801,https://locations.traderjoes.com/al/birmingham/737/,
+Trader Joe's Union Square - Wine Store (541),138 E 14th St,New York,NY,10003,212-529-6326,212-529-6326,https://locations.traderjoes.com/ny/new-york/541/
+Trader Joe's Hastings Ranch (171),467 N Rosemead Blvd,Pasadena,CA,91107,626-351-3399,626-351-3399,https://locations.traderjoes.com/ca/pasadena/171/
+Trader Joe's West Newton (509),1121 Washington St,West Newton,MA,02465,617-244-1620,617-244-1620,https://locations.traderjoes.com/ma/west-newton/509/
+Trader Joe's Lynnwood (129),19715 Highway 99,Lynnwood,WA,98036,425-670-0623,425-670-0623,https://locations.traderjoes.com/wa/lynnwood/129/
+Trader Joe's Santa Rosa Ave (178),2100 Santa Rosa Ave,Santa Rosa,CA,95407,707-535-0788,707-535-0788,https://locations.traderjoes.com/ca/santa-rosa/178/
+Trader Joe's Medford (155),55 Rossanley Dr,Medford,OR,97501,541-608-4993,541-608-4993,https://locations.traderjoes.com/or/medford/155/
+Trader Joe's Irvine -  Walnut Village Ctr (37),14443 Culver Dr,Irvine,CA,92604,949-857-8108,949-857-8108,https://locations.traderjoes.com/ca/irvine/37/
+Trader Joe's Elk Grove (190),9670 Bruceville Road,Elk Grove,CA,95757,916-686-9980,916-686-9980,https://locations.traderjoes.com/ca/elk-grove/190/
+Trader Joe's Louisville Grocery (628),4600 Shelbyville Rd Ste 111,Louisville,KY,40207,502-895-1361,502-895-1361,https://locations.traderjoes.com/ky/louisville/628/
+Trader Joe's Peabody (516),300 Andover St,Peabody,MA,01960,978-977-5316,978-977-5316,https://locations.traderjoes.com/ma/peabody/516/
+Trader Joe's Albuquerque (167),2200 Uptown Loop NE,Albuquerque,NM,87110,505-883-3662,505-883-3662,https://locations.traderjoes.com/nm/albuquerque/167/
+Trader Joe's Beaverton (141),11753 SW Beaverton Hillsdale Hwy,Beaverton,OR,97005,503-626-3794,503-626-3794,https://locations.traderjoes.com/or/beaverton/141/
+Trader Joe's Eugene (145),85 Oakway Center,Eugene,OR,97401,541-485-1744,541-485-1744,https://locations.traderjoes.com/or/eugene/145/
+Trader Joe's Las Vegas - Summerlin (86),7575 W Washington,Las Vegas,NV,89128,702-242-8240,702-242-8240,https://locations.traderjoes.com/nv/las-vegas/86/
+Trader Joe's Arlington (505),1427 Massachusetts Ave,Arlington,MA,02476,781-646-9138,781-646-9138,https://locations.traderjoes.com/ma/arlington/505/
+Trader Joe's Los Altos (127),2310 Homestead Rd,Los Altos,CA,94024,408-245-1917,408-245-1917,https://locations.traderjoes.com/ca/los-altos/127/
+Trader Joe's Baton Rouge (754),3535 Perkins Rd,Baton Rouge,LA,70808,225-382-0588,225-382-0588,https://locations.traderjoes.com/la/baton-rouge/754/
+Trader Joe's Portland NW (146),2122 NW Glisan St,Portland,OR,97210,971-544-0788,971-544-0788,https://locations.traderjoes.com/or/portland/146/
+Trader Joe's Fort Point Seaport (566),44 Thomson Place,Boston,MA,02210,617-941-3714,617-941-3714,https://locations.traderjoes.com/ma/boston/566/
+Trader Joe's Amherst (536),1565 Niagara Falls Blvd,Buffalo,NY,14228,716-833-4687,716-833-4687,https://locations.traderjoes.com/ny/buffalo/536/
+Trader Joe's Silverdale (158),9991 Mickelberry Rd,Silverdale,WA,98383,360-307-7224,360-307-7224,https://locations.traderjoes.com/wa/silverdale/158/
+Trader Joe's Charlottesville (661),2025 Bond St.,Charlottesville,VA,22901,434-974-1466,434-974-1466,https://locations.traderjoes.com/va/charlottesville/661/
+Trader Joe's North Brunswick (612),869 US-1,North Brunswick,NJ,08902,732-993-1403,732-993-1403,https://locations.traderjoes.com/nj/north-brunswick/612/
+Trader Joe's Des Peres (695),13343 Manchester Rd,Des Peres,MO,63131,314-984-5051,314-984-5051,https://locations.traderjoes.com/mo/des-peres/695/
+Trader Joe's Maple Grove (713),12105 Elm Creek Blvd N,Maple Grove,MN,55369,763-315-1739,763-315-1739,https://locations.traderjoes.com/mn/maple-grove/713/
+Trader Joe's Oceanside (552),3418 Long Beach Rd,Oceanside,NY,11572,516-536-9163,516-536-9163,https://locations.traderjoes.com/ny/oceanside/552/
+Trader Joe's Bloomington (724),4270 W 78th St,Bloomington,MN,55435,952-835-8640,952-835-8640,https://locations.traderjoes.com/mn/bloomington/724/
+Trader Joe's Williamsburg (657),5000 Settlers Market Blvd,Williamsburg,VA,23188,757-259-2135,757-259-2135,https://locations.traderjoes.com/va/williamsburg/657/
+Trader Joe's Ventura - Midtown (218),103 S Mills Rd,Ventura,CA,93003,805-658-2664,805-658-2664,https://locations.traderjoes.com/ca/ventura/218/
+Trader Joe's Orland Park (686),14924 S La Grange Rd,Orland Park,IL,60462,708-349-9021,708-349-9021,https://locations.traderjoes.com/il/orland-park/686/
+Trader Joe's Stamford (529),1041 High Ridge Rd,Stamford,CT,06905,203-321-8440,203-321-8440,https://locations.traderjoes.com/ct/stamford/529/
+Trader Joe's Minnetonka (714),11220 Wayzata Blvd,Minnetonka,MN,55305,952-417-9080,952-417-9080,https://locations.traderjoes.com/mn/minnetonka/714/
+Trader Joe's Atlanta (730),931 Monroe Dr,Atlanta,GA,30308,404-815-9210,404-815-9210,https://locations.traderjoes.com/ga/atlanta/730/
+Trader Joe's Los Angeles - 3rd & Fairfax (240),175 South Fairfax Ave,Los Angeles,CA,90036,323-931-4012,323-931-4012,https://locations.traderjoes.com/ca/los-angeles/240/
+Trader Joe's San Juan Capistrano (249),32151 Camino Capistrano,San Juan Capistrano,CA,92675,949-496-4150,949-496-4150,https://locations.traderjoes.com/ca/san-juan-capistrano/249/
+Trader Joe's Paramus (605),404 Rt 17 N,Paramus,NJ,07652,201-265-9624,201-265-9624,https://locations.traderjoes.com/nj/paramus/605/
+Trader Joe's Bellingham (151),2410 James St,Bellingham,WA,98225,360-734-5166,360-734-5166,https://locations.traderjoes.com/wa/bellingham/151/
+Trader Joe's Laguna Niguel - Ocean Ranch (103),32351 Street of the Golden Lantern,Laguna Niguel,CA,92677,949-493-8599,949-493-8599,https://locations.traderjoes.com/ca/laguna-niguel/103/
+Trader Joe's Houston - S Voss Rd (427),1440 South Voss Road,Houston,TX,77057,713-266-2377,713-266-2377,https://locations.traderjoes.com/tx/houston/427/
+Trader Joe's Santa Fe (165),530 W Cordova Rd,Santa Fe,NM,87505,505-995-8145,505-995-8145,https://locations.traderjoes.com/nm/santa-fe/165/
+Trader Joe's Manhattan Beach Blvd (34),1821 Manhattan Beach Blvd,Manhattan Beach,CA,90266,310-372-1274,310-372-1274,https://locations.traderjoes.com/ca/manhattan-beach/34/
+Trader Joe's Campbell (73),1875 Bascom Ave,Campbell,CA,95008,408-369-7823,408-369-7823,https://locations.traderjoes.com/ca/campbell/73/
+Trader Joe's Castro Valley (84),22224 Redwood Rd,Castro Valley,CA,94546,510-538-2738,510-538-2738,https://locations.traderjoes.com/ca/castro-valley/84/
+Trader Joe's Los Angeles - Burton Way (237),8500 Burton Way,Los Angeles,CA,90048,310-248-2984,310-248-2984,https://locations.traderjoes.com/ca/los-angeles/237/
+Trader Joe's Framingham (503),659 Worcester Rd,Framingham,MA,01701,508-935-2931,508-935-2931,https://locations.traderjoes.com/ma/framingham/503/
+Trader Joe's Davie (778),2296 S University Dr,Davie,FL,33324,954-512-2968,954-512-2968,https://locations.traderjoes.com/fl/davie/778/
+Trader Joe's Coralville (728),920 Ponseti Way,Coralville,IA,52241,319-351-7223,319-351-7223,https://locations.traderjoes.com/ia/coralville/728/
+Trader Joe's Shrewsbury (508),77 Boston Turnpike,Shrewsbury,MA,01545,508-755-9560,508-755-9560,https://locations.traderjoes.com/ma/shrewsbury/508/
+Trader Joe's South Pasadena (18),613 Mission St,S. Pasadena,CA,91030,626-441-6263,626-441-6263,https://locations.traderjoes.com/ca/s.-pasadena/18/
+Trader Joe's Danville (65),85 Railroad Ave,Danville,CA,94526,925-838-5757,925-838-5757,https://locations.traderjoes.com/ca/danville/65/
+Trader Joe's Simi Valley (30),2975-A Cochran St,Simi Valley,CA,93065,805-520-3135,805-520-3135,https://locations.traderjoes.com/ca/simi-valley/30/
+Trader Joe's Bailey's Crossroads (644),5847 Leesburg Pike,Bailey's Crossroads,VA,22041,703-379-5883,703-379-5883,https://locations.traderjoes.com/va/bailey-s-crossroads/644/
+Trader Joe's Boulder (301),1906 28th St,Boulder,CO,80301,303-443-0160,303-443-0160,https://locations.traderjoes.com/co/boulder/301/
+Trader Joe's Wilmington (636),5605 Concord Pike,Wilmington,DE,19803,302-478-8494,302-478-8494,https://locations.traderjoes.com/de/wilmington/636/
+Trader Joe's Anthem (280),10345 S Eastern Ave,Henderson,NV,89052,702-407-8673,702-407-8673,https://locations.traderjoes.com/nv/henderson/280/
+Trader Joe's Emeryville (72),5700 Christie Ave,Emeryville,CA,94608,510-658-8091,510-658-8091,https://locations.traderjoes.com/ca/emeryville/72/
+Trader Joe's Dallas West (405),5550 W Lovers Lane,Dallas,TX,75209,214-366-0205,214-366-0205,https://locations.traderjoes.com/tx/dallas/405/
+Trader Joe's Meridian (361),2986 N. Eagle RD.,Meridian,ID,83646,208-506-2978,208-506-2978,https://locations.traderjoes.com/id/meridian/361/
+Trader Joe's Nashville (664),3909 Hillsboro Pike,Nashville,TN,37215,615-297-6560,615-297-6560,https://locations.traderjoes.com/tn/nashville/664/
+Trader Joe's San Jose - Westgate West (62),5269 Prospect,San Jose,CA,95129,408-446-5055,408-446-5055,https://locations.traderjoes.com/ca/san-jose/62/
+Trader Joe's Olympia (156),1530 Black Lake Blvd SW,Olympia,WA,98502,360-352-7440,360-352-7440,https://locations.traderjoes.com/wa/olympia/156/
+Trader Joe's Denver (302),661 Logan Street,Denver,CO,80203,303-318-7112,303-318-7112,https://locations.traderjoes.com/co/denver/302/
+Trader Joe's Arlington Heights (687),17 W Rand Rd,Arlington Heights,IL,60004,847-506-0752,847-506-0752,https://locations.traderjoes.com/il/arlington-heights/687/
+Trader Joe's Dallas Far North (407),14856 Preston Rd,Dallas,TX,75254,972-239-3901,972-239-3901,https://locations.traderjoes.com/tx/dallas/407/
+Trader Joe's Seattle - U District (137),4555 Roosevelt Way NE,Seattle,WA,98105,206-547-6299,206-547-6299,https://locations.traderjoes.com/wa/seattle/137/
+Trader Joe's Washington - Union Market District (621),350 Florida Ave. NE,Washington,DC,20002,202-608-1023,202-608-1023,https://locations.traderjoes.com/dc/washington/621/
+Trader Joe's Pacific Grove (79),1170 Forest Ave,Pacific Grove,CA,93950,831-656-0180,831-656-0180,https://locations.traderjoes.com/ca/pacific-grove/79/
+Trader Joe's Westfield (601),155 Elm St,Westfield,NJ,07090,908-301-0910,908-301-0910,https://locations.traderjoes.com/nj/westfield/601/
+Trader Joe's Upper West Side (545),670 Columbus Ave,New York,NY,10025,212-678-1680,212-678-1680,https://locations.traderjoes.com/ny/new-york/545/
+Trader Joe's West Seattle (157),4545 Fauntleroy Way SW,Seattle,WA,98116,206-913-0013,206-913-0013,https://locations.traderjoes.com/wa/seattle/157/
+Trader Joe's Foxborough - Patriot Place (528),350 Patriot Place,Foxborough,MA,02035,508-543-1978,508-543-1978,https://locations.traderjoes.com/ma/foxborough/528/
+Trader Joe's Culver City (251),6150 Slauson Ave,Culver City,CA,90230,310-313-0441,310-313-0441,https://locations.traderjoes.com/ca/culver-city/251/
+Trader Joe's Burlington (515),51 Middlesex Turnpike,Burlington,MA,01803,781-273-2310,781-273-2310,https://locations.traderjoes.com/ma/burlington/515/
+Trader Joe's Essex Crossing (538),400 Grand St. (Cellar),New York,NY,10002,212-477-8340,212-477-8340,https://locations.traderjoes.com/ny/new-york/538/
+Trader Joe's Kirkland (132),12520 Totem Lake Blvd NE,Kirkland,WA,98034,425-814-9181,425-814-9181,https://locations.traderjoes.com/wa/kirkland/132/
+Trader Joe's New York - Murray Hill (544),200 E 32nd St,New York,NY,10016,212-889-3279,212-889-3279,https://locations.traderjoes.com/ny/new-york/544/
+Trader Joe's Lincoln (722),3120 Pine Lake Rd,Lincoln,NE,68516,402-328-0120,402-328-0120,https://locations.traderjoes.com/ne/lincoln/722/
+Trader Joe's Palm Desert (3),44250 Town Center Way,Palm Desert,CA,92260,760-340-2291,760-340-2291,https://locations.traderjoes.com/ca/palm-desert/3/
+Trader Joe's Irvine - Woodbury Town Center (210),6222 Irvine Blvd,Irvine,CA,92620,949-551-6402,949-551-6402,https://locations.traderjoes.com/ca/irvine/210/
+Trader Joe's Marina Del Rey (205),4675 Admiralty Way,Marina Del Rey,CA,90292,310-301-4461,310-301-4461,https://locations.traderjoes.com/ca/marina-del-rey/205/
+Trader Joe's Springfield (651),6394 Springfield Plaza,Springfield,VA,22150,703-569-9301,703-569-9301,https://locations.traderjoes.com/va/springfield/651/
+Trader Joe's Redondo Beach (38),1761 S Elena Ave,Redondo Bch.,CA,90277,310-316-1745,310-316-1745,https://locations.traderjoes.com/ca/redondo-bch./38/
+Trader Joe's Houston - West (431),11683 Westheimer Rd,Houston,TX,77077,281-496-2488,281-496-2488,https://locations.traderjoes.com/tx/houston/431/
+Trader Joe's Chicago - South Loop (701),1147 S Wabash Ave,Chicago,IL,60605,312-588-0489,312-588-0489,https://locations.traderjoes.com/il/chicago/701/
+Trader Joe's Wellington (774),2877 South State Rd 7,Wellington,FL,33414,561-656-1067,561-656-1067,https://locations.traderjoes.com/fl/wellington/774/
+Trader Joe's Fairfield (523),2258 Black Rock Turnpike,Fairfield,CT,06825,203-330-8301,203-330-8301,https://locations.traderjoes.com/ct/fairfield/523/
+Trader Joe's Rochester (718),1200 16th St SW,Rochester,MN,55902,507-281-4411,507-281-4411,https://locations.traderjoes.com/mn/rochester/718/
+Trader Joe's Palo Alto (207),855 El Camino Real,Palo Alto,CA,94301,650-327-7018,650-327-7018,https://locations.traderjoes.com/ca/palo-alto/207/
+Trader Joe's Encino (56),17640 Burbank Blvd,Encino,CA,91316,818-990-7751,818-990-7751,https://locations.traderjoes.com/ca/encino/56/
+Trader Joe's Greensboro (750),3721 Battleground Ave.,Greensboro,NC,27410,336-286-7859,336-286-7859,https://locations.traderjoes.com/nc/greensboro/750/
+Trader Joe's Fresno (8),8478 N. Friant Road,Fresno,CA,93720,559-433-6478,559-433-6478,https://locations.traderjoes.com/ca/fresno/8/
+Trader Joe's Germantown (738),2130 Exeter Rd.,Germantown,TN,38138,901-759-2803,901-759-2803,https://locations.traderjoes.com/tn/germantown/738/
+Trader Joe's Oakland - Lakeshore (203),3250 Lakeshore Ave,Oakland,CA,94610,510-238-9076,510-238-9076,https://locations.traderjoes.com/ca/oakland/203/
+Trader Joe's Morgan Hill (202),17035 Laurel Rd,Morgan Hill,CA,95037,408-778-6409,408-778-6409,https://locations.traderjoes.com/ca/morgan-hill/202/
+Trader Joe's Kalamazoo (708),5099 Century Ave,Kalamazoo,MI,49006,269-372-2049,269-372-2049,https://locations.traderjoes.com/mi/kalamazoo/708/
+Trader Joe's Cherry Hill (613),775 Haddonfield Rd,Cherry Hill,NJ,08002,856-488-0801,856-488-0801,https://locations.traderjoes.com/nj/cherry-hill/613/
+Trader Joe's Darien (522),436 Boston Post Rd,Darien,CT,06820,203-656-1414,203-656-1414,https://locations.traderjoes.com/ct/darien/522/
+Trader Joe's San Jose - Bollinger (232),7250 Bollinger Rd,San Jose,CA,95129,408-873-7384,408-873-7384,https://locations.traderjoes.com/ca/san-jose/232/
+Trader Joe's Tucson (95),1101 N Wilmot Rd,Tucson,AZ,85712,520-733-1313,520-733-1313,https://locations.traderjoes.com/az/tucson/95/
+Trader Joe's Fort Worth (404),2701 S Hulen St,Fort Worth,TX,76109,817-922-9107,817-922-9107,https://locations.traderjoes.com/tx/fort-worth/404/
+Trader Joe's Belle Meade (739),90 White Bridge Rd,Nashville,TN,37205,615-356-1066,615-356-1066,https://locations.traderjoes.com/tn/nashville/739/
+Trader Joe's Costa Mesa (35),640 W 17th St,Costa Mesa,CA,92627,949-642-5134,949-642-5134,https://locations.traderjoes.com/ca/costa-mesa/35/
+Trader Joe's Richmond/Short Pump (659),11331 W Broad St,Glen Allen,VA,23060,804-360-4098,804-360-4098,https://locations.traderjoes.com/va/glen-allen/659/
+Trader Joe's Columbia (658),6610 Marie Curie Dr,Elkridge,MD,21075,410-953-8139,410-953-8139,https://locations.traderjoes.com/md/elkridge/658/
+Trader Joe's Long Beach - Bixby Knolls (116),4210 Long Beach Blvd,Long Beach,CA,90807,562-422-1020,562-422-1020,https://locations.traderjoes.com/ca/long-beach/116/
+Trader Joe's Clackamas (152),9345 SE 82nd Ave,Clackamas,OR,97086,503-771-6300,503-771-6300,https://locations.traderjoes.com/or/clackamas/152/
+Trader Joe's La Grange (685),25 N La Grange Rd,La Grange,IL,60525,708-579-0838,708-579-0838,https://locations.traderjoes.com/il/la-grange/685/
+Trader Joe's Olympic Blvd (215),11755 Olympic Blvd,Los Angeles,CA,90064,310-477-5949,310-477-5949,https://locations.traderjoes.com/ca/los-angeles/215/
+Trader Joe's Orange (524),560 Boston Post Rd,Orange,CT,06477,203-795-5505,203-795-5505,https://locations.traderjoes.com/ct/orange/524/
+Trader Joe's Virginia Beach (660),503 Hilltop Plaza,Virginia Beach,VA,23454,757-422-4840,757-422-4840,https://locations.traderjoes.com/va/virginia-beach/660/
+Trader Joe's Irvine - University Ctr (111),4225 Campus Dr,Irvine,CA,92612,949-509-6138,949-509-6138,https://locations.traderjoes.com/ca/irvine/111/
+Trader Joe's Metairie (755),2949 Veterans Blvd,Metairie,LA,70002,504-831-0253,504-831-0253,https://locations.traderjoes.com/la/metairie/755/
+Trader Joe's Prescott (283),252 N Lee Blvd,Prescott,AZ,86303,928-443-9075,928-443-9075,https://locations.traderjoes.com/az/prescott/283/
+Trader Joe's Katy (Cinco Ranch) (429),2717 Commercial Center Blvd,Katy,TX,77494,281-392-4200,281-392-4200,https://locations.traderjoes.com/tx/katy/429/
+Trader Joe's Grand Rapids - Kentwood (707),3684 28th St SE,Kentwood,MI,49512,616-977-1819,616-977-1819,https://locations.traderjoes.com/mi/kentwood/707/
+Trader Joe's San Diego - Pacific Beach (21),1640 Garnet Ave,San Diego,CA,92109,858-581-9101,858-581-9101,https://locations.traderjoes.com/ca/san-diego/21/
+Trader Joe's Santa Maria (239),1303 S Bradley Rd,Santa Maria,CA,93454,805-925-1657,805-925-1657,https://locations.traderjoes.com/ca/santa-maria/239/
+Trader Joe's Hillsboro (149),2285 NW 185th Ave,Hillsboro,OR,97124,503-645-8321,503-645-8321,https://locations.traderjoes.com/or/hillsboro/149/
+Trader Joe's Montrose (52),2462 Honolulu Ave,Montrose,CA,91020,818-957-3613,818-957-3613,https://locations.traderjoes.com/ca/montrose/52/
+Trader Joe's Mt. Pleasant (752),401 Johnnie Dodds Blvd,Mt. Pleasant,SC,29464,843-884-4037,843-884-4037,https://locations.traderjoes.com/sc/mt.-pleasant/752/
+Trader Joe's Tulsa (460),3702 S Peoria Ave,Tulsa,OK,74105,918-712-9768,918-712-9768,https://locations.traderjoes.com/ok/tulsa/460/
+Trader Joe's Bakersfield (14),8200 Stockdale Hwy,Bakersfield,CA,93311,661-837-8863,661-837-8863,https://locations.traderjoes.com/ca/bakersfield/14/
+Trader Joe's Santa Barbara (59),222 North Milpas Street,Santa Barbara,CA,93103,805-560-1182,805-560-1182,https://locations.traderjoes.com/ca/santa-barbara/59/
+Trader Joe's Austin - Northwest (454),9722 Great Hills Trail,Austin,TX,78759,512-241-1248,512-241-1248,https://locations.traderjoes.com/tx/austin/454/
+Trader Joe's Chicago - Diversey Pkwy (703),667 W Diversey Pkwy,Chicago,IL,60614,773-935-7255,773-935-7255,https://locations.traderjoes.com/il/chicago/703/
+Trader Joe's Washington - 14th St (662),1914 14th St NW,Washington,DC,20009,202-986-1591,202-986-1591,https://locations.traderjoes.com/dc/washington/662/
+Trader Joe's Studio City (122),11976 Ventura Blvd,Studio City,CA,91604,818-509-0168,818-509-0168,https://locations.traderjoes.com/ca/studio-city/122/
+Trader Joe's Marlton (631),300 P Route 73 S,Marlton,NJ,08053,856-988-3323,856-988-3323,https://locations.traderjoes.com/nj/marlton/631/
+Trader Joe's Princeton (607),3528 Brunswick Pike,Princeton,NJ,08540,609-897-0581,609-897-0581,https://locations.traderjoes.com/nj/princeton/607/
+Trader Joe's Madison (712),1810 Monroe St,Madison,WI,53711,608-257-1916,608-257-1916,https://locations.traderjoes.com/wi/madison/712/
+Trader Joe's Colonie/Albany (535),79 Wolf Rd,Colonie,NY,12205,518-482-4538,518-482-4538,https://locations.traderjoes.com/ny/colonie/535/
+Trader Joe's Arlington - Clarendon (640),1109 N Highland St,Arlington,VA,22201,703-351-8015,703-351-8015,https://locations.traderjoes.com/va/arlington/640/
+Trader Joe's Manchester (563),1510 Pleasant Valley Road,Manchester,CT,06042,860-644-3182,860-644-3182,https://locations.traderjoes.com/ct/manchester/563/
+Trader Joe's Glendale (85),7720 West Bell Rd,Glendale,AZ,85308,623-776-7414,623-776-7414,https://locations.traderjoes.com/az/glendale/85/
+Trader Joe's San Francisco (100),3 Masonic Ave,San Francisco,CA,94118,415-346-9964,415-346-9964,https://locations.traderjoes.com/ca/san-francisco/100/
+Trader Joe's St. Petersburg (767),2742 4th St N,St. Petersburg,FL,33704,727-824-0907,727-824-0907,https://locations.traderjoes.com/fl/st.-petersburg/767/
+Trader Joe's Batavia (689),1942 W Fabyan Pkwy,Batavia,IL,60510,630-879-3234,630-879-3234,https://locations.traderjoes.com/il/batavia/689/
+Trader Joe's Capitola (64),3555 Clares St #D,Capitola,CA,95010,831-464-0115,831-464-0115,https://locations.traderjoes.com/ca/capitola/64/
+Trader Joe's Huntington Beach - Brookhurst (241),21431 Brookhurst St,Huntington Beach,CA,92646,714-968-4070,714-968-4070,https://locations.traderjoes.com/ca/huntington-beach/241/
+Trader Joe's San Francisco - North Beach (19),401 Bay St,San Francisco,CA,94133,415-351-1013,415-351-1013,https://locations.traderjoes.com/ca/san-francisco/19/
+Trader Joe's Sunset Blvd (192),8000 W Sunset Blvd,Los Angeles,CA,90046,323-822-7663,323-822-7663,https://locations.traderjoes.com/ca/los-angeles/192/
+Trader Joe's Clovis (180),1077 N Willow Ave,Clovis,CA,93611,559-325-3120,559-325-3120,https://locations.traderjoes.com/ca/clovis/180/
+Trader Joe's San Diego - Carmel Mtn Ranch (23),11955 Carmel Mountain Rd,San Diego,CA,92128,858-673-0526,858-673-0526,https://locations.traderjoes.com/ca/san-diego/23/
+Trader Joe's Modesto (9),3250 Dale Road,Modesto,CA,95356,209-491-0445,209-491-0445,https://locations.traderjoes.com/ca/modesto/9/
+Trader Joe's Rockville (642),12268-H Rockville Pike,Rockville,MD,20852,301-468-6656,301-468-6656,https://locations.traderjoes.com/md/rockville/642/
+Trader Joe's San Rafael (61),337 3rd St,San Rafael,CA,94901,415-454-9530,415-454-9530,https://locations.traderjoes.com/ca/san-rafael/61/
+Trader Joe's Leawood (723),4201 W 119th St,Leawood,KS,66209,913-327-7209,913-327-7209,https://locations.traderjoes.com/ks/leawood/723/
+Trader Joe's Fremont (77),39324 Argonaut Way,Fremont,CA,94538,510-794-1386,510-794-1386,https://locations.traderjoes.com/ca/fremont/77/
+Trader Joe's Tucson - Campbell & Limberlost (191),4209 N Campbell Ave,Tucson,AZ,85719,520-325-0069,520-325-0069,https://locations.traderjoes.com/az/tucson/191/
+Trader Joe's Ahwatukee (177),4025 E Chandler Blvd,Phoenix,AZ,85048,480-759-2295,480-759-2295,https://locations.traderjoes.com/az/phoenix/177/
+Trader Joe's Federal Way (134),1758 S 320th St,Federal Way,WA,98003,253-941-6138,253-941-6138,https://locations.traderjoes.com/wa/federal-way/134/
+Trader Joe's Naples (762),10600 Tamiami Trail N,Naples,FL,34108,239-596-5631,239-596-5631,https://locations.traderjoes.com/fl/naples/762/
+Trader Joe's Cambridge Fresh Pond (517),211 Alewife Brook Pkwy,Cambridge,MA,02138,617-498-3201,617-498-3201,https://locations.traderjoes.com/ma/cambridge/517/
+Trader Joe's Naperville (690),44 W Gartner Rd,Naperville,IL,60540,630-355-4389,630-355-4389,https://locations.traderjoes.com/il/naperville/690/
+Trader Joe's Bloomfield Hills (675),6536 Telegraph Rd,Bloomfield Hills,MI,48301,248-855-2283,248-855-2283,https://locations.traderjoes.com/mi/bloomfield-hills/675/
+Trader Joe's Huntington Harbour (244),16821 Algonquin St,Huntington Beach,CA,92649,714-846-7307,714-846-7307,https://locations.traderjoes.com/ca/huntington-beach/244/
+Trader Joe's Mall of Orange (46),2114 N Tustin St,Orange,CA,92865,714-283-5697,714-283-5697,https://locations.traderjoes.com/ca/orange/46/
+Trader Joe's Milpitas (229),1306 Great Mall Pkwy,Milpitas,CA,95035,408-942-6957,408-942-6957,https://locations.traderjoes.com/ca/milpitas/229/
+Trader Joe's Syracuse (537),3422 Erie Blvd E,Syracuse,NY,13214,315-446-1629,315-446-1629,https://locations.traderjoes.com/ny/syracuse/537/
+Trader Joe's Mesa (89),2050 E Baseline Rd,Mesa,AZ,85204,480-632-0951,480-632-0951,https://locations.traderjoes.com/az/mesa/89/
+Trader Joe's Silver Lake (17),2738 Hyperion Ave,Los Angeles,CA,90027,323-665-6774,323-665-6774,https://locations.traderjoes.com/ca/los-angeles/17/
+Trader Joe's San Diego - SDSU (224),5140 College Ave,San Diego,CA,92115,619-229-9092,619-229-9092,https://locations.traderjoes.com/ca/san-diego/224/
+Trader Joe's San Dimas (28),856 W Arrow Hwy,San Dimas,CA,91773,909-305-4757,909-305-4757,https://locations.traderjoes.com/ca/san-dimas/28/
+Trader Joe's Merrick (553),1714 Merrick Rd,Merrick,NY,11566,516-771-1012,516-771-1012,https://locations.traderjoes.com/ny/merrick/553/
+Trader Joe's Chelsea (543),675 6th Ave,New York,NY,10010,212-255-2106,212-255-2106,https://locations.traderjoes.com/ny/new-york/543/
+Trader Joe's Louisville Wine (625),4600 Shelbyville Rd Ste 112,Louisville,KY,40207,502-895-7872,502-895-7872,https://locations.traderjoes.com/ky/louisville/625/
+Trader Joe's Encinitas (25),115 N El Camino Real,Encinitas,CA,92024,760-634-2114,760-634-2114,https://locations.traderjoes.com/ca/encinitas/25/
+Trader Joe's Issaquah (138),975 NW Gilman Blvd,Issaquah,WA,98027,425-557-6420,425-557-6420,https://locations.traderjoes.com/wa/issaquah/138/
+Trader Joe's Christiana (759),2500 Fashion Center Blvd.,Newark,DE,19702,302-292-6825,302-292-6825,https://locations.traderjoes.com/de/newark/759/
+Trader Joe's Chapel Hill (745),1800 E Franklin St,Chapel Hill,NC,27514,919-918-7871,919-918-7871,https://locations.traderjoes.com/nc/chapel-hill/745/
+Trader Joe's Downers Grove (683),122 Ogden Ave,Downers Grove,IL,60515,630-241-1662,630-241-1662,https://locations.traderjoes.com/il/downers-grove/683/
+Trader Joe's Media (637),12 E State St,Media,PA,19063,610-891-2752,610-891-2752,https://locations.traderjoes.com/pa/media/637/
+Trader Joe's North Wales (639),1460 Bethlehem Pike,North Wales,PA,19454,215-646-5870,215-646-5870,https://locations.traderjoes.com/pa/north-wales/639/
+Trader Joe's Fort Wayne (757),4110 W. Jefferson Blvd.,Fort Wayne,IN,46804,260-432-5828,260-432-5828,https://locations.traderjoes.com/in/fort-wayne/757/
+Trader Joe's Silver Spring (652),10741 Columbia Pike,Silver Spring,MD,20901,301-681-1675,301-681-1675,https://locations.traderjoes.com/md/silver-spring/652/
+Trader Joe's Spokane N (164),5520 N Division St,Spokane,WA,99208,509-487-4188,509-487-4188,https://locations.traderjoes.com/wa/spokane/164/
+Trader Joe's Bethesda (645),6831 Wisconsin Ave,Bethesda,MD,20815,301-907-0982,301-907-0982,https://locations.traderjoes.com/md/bethesda/645/
+Trader Joe's Glover Park (620),2101 Wisconsin Ave NW Suite A,Washington,DC,20007,202-944-8403,202-944-8403,https://locations.traderjoes.com/dc/washington/620/
+Trader Joe's Queens (557),9030 Metropolitan Ave,Rego Park,NY,11374,718-275-1791,718-275-1791,https://locations.traderjoes.com/ny/rego-park/557/
+Trader Joe's Park Ridge (698),190 N NW Highway,Park Ridge,IL,60068,847-292-1108,847-292-1108,https://locations.traderjoes.com/il/park-ridge/698/
+Trader Joe's Spokane (159),2975 East 29th Ave,Spokane,WA,99223,509-534-1077,509-534-1077,https://locations.traderjoes.com/wa/spokane/159/
+Trader Joe's Pasadena (East) (32),3035 E Huntington Dr,Pasadena,CA,91107,626-356-2963,626-356-2963,https://locations.traderjoes.com/ca/pasadena/32/
+Trader Joe's Escondido (105),1885 S Centre City Pkwy,Escondido,CA,92025,760-233-4020,760-233-4020,https://locations.traderjoes.com/ca/escondido/105/
+Trader Joe's Miami Beach (779),1683 West Ave,Miami Beach,FL,33139,305-534-4951,305-534-4951,https://locations.traderjoes.com/fl/miami-beach/779/
+Trader Joe's Needham Heights (504),958 Highland Ave,Needham,MA,02494,781-449-6993,781-449-6993,https://locations.traderjoes.com/ma/needham/504/
+Trader Joe's Novato (198),7514 Redwood Blvd,Novato,CA,94945,415-898-9359,415-898-9359,https://locations.traderjoes.com/ca/novato/198/
+Trader Joe's Surprise (92),14095 W Grand Ave,Surprise,AZ,85374,623-546-1640,623-546-1640,https://locations.traderjoes.com/az/surprise/92/
+Trader Joe's Portland (519),87 Marginal Way,Portland,ME,04101,207-699-3799,207-699-3799,https://locations.traderjoes.com/me/portland/519/
+Trader Joe's Union Square - Grocery Store (540),142 E 14th St,New York,NY,10003,212-529-4612,212-529-4612,https://locations.traderjoes.com/ny/new-york/540/
+Trader Joe's Vancouver (136),305 SE Chkalov Dr,Vancouver,WA,98683,360-883-9000,360-883-9000,https://locations.traderjoes.com/wa/vancouver/136/
+Trader Joe's Athens (736),1850 Epps Bridge Pkwy,Athens,GA,30606,706-583-8934,706-583-8934,https://locations.traderjoes.com/ga/athens/736/
+Trader Joe's Eagle Rock (55),1566 Colorado Blvd,Eagle Rock,CA,90041,323-257-6422,323-257-6422,https://locations.traderjoes.com/ca/eagle-rock/55/
+Trader Joe's McKinney (408),2851 Craig Dr Ste 100,McKinney,TX,75070,214-491-1893,214-491-1893,https://locations.traderjoes.com/tx/mckinney/408/
+Trader Joe's Santa Rosa - Cleveland Ave (75),3225 Cleveland Ave,Santa Rosa,CA,95403,707-525-1406,707-525-1406,https://locations.traderjoes.com/ca/santa-rosa/75/
+Trader Joe's La Mesa (24),5495 Grossmont Center Dr,La Mesa,CA,91942,619-466-0105,619-466-0105,https://locations.traderjoes.com/ca/la-mesa/24/
+Trader Joe's Del Mar (223 ),13480 Highlands Place,San Diego,CA,92130,858-755-7130,858-755-7130,https://locations.traderjoes.com/ca/san-diego/223/
+Trader Joe's San Francisco - Nob Hill (200),1095 Hyde St,San Francisco,CA,94109,415-292-7665,415-292-7665,https://locations.traderjoes.com/ca/san-francisco/200/
+Trader Joe's Sacramento (70),2625 Marconi Ave,Sacramento,CA,95821,916-481-8797,916-481-8797,https://locations.traderjoes.com/ca/sacramento/70/
+Trader Joe's Hingham (530),5 Essington Drive,Hingham,MA,02043,781-740-2038,781-740-2038,https://locations.traderjoes.com/ma/hingham/530/
+Trader Joe's ASU (91),940 E. University Drive,Tempe,AZ,85281,480-303-9974,480-303-9974,https://locations.traderjoes.com/az/tempe/91/
+Trader Joe's Ventura (45),1795 S. Victoria Ave,Ventura,CA,93003,805-650-9977,805-650-9977,https://locations.traderjoes.com/ca/ventura/45/
+Trader Joe's Omaha (719),10305 Pacific St,Omaha,NE,68114,402-391-3698,402-391-3698,https://locations.traderjoes.com/ne/omaha/719/
+Trader Joe's Wichita (729),1800 N. Rock Road,Wichita,KS,67206,316-634-1846,316-634-1846,https://locations.traderjoes.com/ks/wichita/729/
+Trader Joe's La Habra,La Habra,CA,90631,562-266-1428,562-266-1428,https://locations.traderjoes.com/ca/la-habra/5/,
+Trader Joe's Buckhead (735),3183 Peachtree Rd,Atlanta,GA,30305,404-842-0907,404-842-0907,https://locations.traderjoes.com/ga/atlanta/735/
+Trader Joe's Asheville (740),120 Merrimon Ave,Asheville,NC,28801,828-232-5078,828-232-5078,https://locations.traderjoes.com/nc/asheville/740/
+Trader Joe's Redlands (99),552 Orange St,Redlands,CA,92374,909-798-3888,909-798-3888,https://locations.traderjoes.com/ca/redlands/99/
+Trader Joe's Scripps Ranch (221),9850 Hibert St,San Diego,CA,92131,858-549-9185,858-549-9185,https://locations.traderjoes.com/ca/san-diego/221/
+Trader Joe's Pembroke Pines (775),11960 Pines Blvd,Pembroke Pines,FL,33026,954-432-0405,954-432-0405,https://locations.traderjoes.com/fl/pembroke-pines/775/
+Trader Joe's Austin - Seaholm (452),Austin,TX,78701,512-474-2263,512-474-2263,https://locations.traderjoes.com/tx/austin/452/,
+Trader Joe's Shrewsbury (608),1031 Broad St,Shrewsbury,NJ,07702,732-389-2535,732-389-2535,https://locations.traderjoes.com/nj/shrewsbury/608/
+Trader Joe's Jacksonville Beach (760),4180 S 3rd St,Jacksonville Beach,FL,32250,904-241-1770,904-241-1770,https://locations.traderjoes.com/fl/jacksonville-beach/760/
+Trader Joe's Washington - 25th St (653),1101 25th Street NW,Washington,DC,20037,202-296-1921,202-296-1921,https://locations.traderjoes.com/dc/washington/653/
+Trader Joe's Westbury (550),910 Old Country Rd,Garden City,NY,11530,516-794-0174,516-794-0174,https://locations.traderjoes.com/ny/garden-city/550/
+Trader Joe's Charlotte - Piper Glen (742),6418 Rea Rd,Charlotte,NC,28277,704-543-5249,704-543-5249,https://locations.traderjoes.com/nc/charlotte/742/
+Trader Joe's La Jolla (20),8657 Villa la Jolla Dr,La Jolla,CA,92037,858-546-8629,858-546-8629,https://locations.traderjoes.com/ca/la-jolla/20/
+Trader Joe's Ballard (147),4609 14th Ave NW,Seattle,WA,98107,206-783-0498,206-783-0498,https://locations.traderjoes.com/wa/seattle/147/
+Trader Joe's The Woodlands (428),10868 Kuykendahl Road,The Woodlands,TX,77381,281-465-0254,281-465-0254,https://locations.traderjoes.com/tx/the-woodlands/428/
+Trader Joe's West Los Angeles (7),10850 National Blvd,Los Angeles,CA,90064,310-470-1917,310-470-1917,https://locations.traderjoes.com/ca/los-angeles/7/
+Trader Joe's Marietta (732),4250 Roswell Road,Marietta,GA,30062,678-560-3585,678-560-3585,https://locations.traderjoes.com/ga/marietta/732/
+Trader Joe's San Antonio (451),350 East Basse Road,San Antonio,TX,78209,210-826-1110,210-826-1110,https://locations.traderjoes.com/tx/san-antonio/451/
+Trader Joe's Dallas Knox (400),4525 Cole Ave,Dallas,TX,75205?,214-599-2155,214-599-2155,https://locations.traderjoes.com/tx/dallas/400/
+Trader Joe's Hoboken (611),1350 Willow Ave.,Hoboken,NJ,07030,201-714-4790,201-714-4790,https://locations.traderjoes.com/nj/hoboken/611/
+Trader Joe's Cary (741),1393 Kildaire Farm Rd,Cary,NC,27511,919-465-5984,919-465-5984,https://locations.traderjoes.com/nc/cary/741/
+Trader Joe's Fort Collins (304),Fort Collins,CO,80525,970-223-3560,970-223-3560,https://locations.traderjoes.com/co/fort-collins/304/,
+Trader Joe's Shoreline (270),1201 N 175th St,Shoreline,WA,98133,206-542-5336,206-542-5336,https://locations.traderjoes.com/wa/shoreline/270/
+Trader Joe's Brooklyn - City Point (547),445 Gold St,Brooklyn,NY,11201,718-243-0107,718-243-0107,https://locations.traderjoes.com/ny/brooklyn/547/
+Trader Joe's Pleasanton (66),3903 Santa Rita Road,Pleasanton,CA,94588,925-468-0763,925-468-0763,https://locations.traderjoes.com/ca/pleasanton/66/
+Trader Joe's Agoura Hills (247),28941 Canwood St,Agoura Hills,CA,91301,818-865-8217,818-865-8217,https://locations.traderjoes.com/ca/agoura-hills/247/
+Trader Joe's Pinecrest (770),9205 S Dixie Hwy,Miami,FL,33156?,305-661-1432,305-661-1432,https://locations.traderjoes.com/fl/miami/770/
+Trader Joe's Greenville (751),59 Woodruff Industrial Ln,Greenville,SC,29607,864-286-0231,864-286-0231,https://locations.traderjoes.com/sc/greenville/751/
+Trader Joe's Gilbert (SanTan) (285),1779 E. Williams Field Rd.,Gilbert,AZ,85295,480-857-9878,480-857-9878,https://locations.traderjoes.com/az/gilbert/285/
+Trader Joe's Pittsburgh - South Hills (630),1630 Washington Rd,Pittsburgh,PA,15241,412-835-2212,412-835-2212,https://locations.traderjoes.com/pa/pittsburgh/630/
+Trader Joe's Columbus (679),3888 Townsfair Way,Columbus,OH,43219,614-473-0794,614-473-0794,https://locations.traderjoes.com/oh/columbus/679/
+Trader Joe's Lake Zurich (684),735 W Route 22,Lake Zurich,IL,60047,847-550-7827,847-550-7827,https://locations.traderjoes.com/il/lake-zurich/684/
+Trader Joe's Folsom (172),850 East Bidwell,Folsom,CA,95630,916-817-8820,916-817-8820,https://locations.traderjoes.com/ca/folsom/172/
+Trader Joe's Carlsbad (220),2629 Gateway Rd,Carlsbad,CA,92009,760-603-8473,760-603-8473,https://locations.traderjoes.com/ca/carlsbad/220/
+Trader Joe's Denville (617),3056 State Route 10 West,Denville,NJ,07834,973-537-3672,973-537-3672,https://locations.traderjoes.com/nj/denville/617/
+Trader Joe's Staten Island (559),2385 Richmond Ave,Staten Island,NY,10314,718-370-1085,718-370-1085,https://locations.traderjoes.com/ny/staten-island/559/
+Trader Joe's Westlake Village (58),3835 E Thousand Oaks Blvd,Westlake Village,CA,91362,805-494-5040,805-494-5040,https://locations.traderjoes.com/ca/westlake-village/58/
+Trader Joe's Gainesville (764),3724 SW Archer Rd,Gainesville,FL,32608,352-378-9321,352-378-9321,https://locations.traderjoes.com/fl/gainesville/764/
+Trader Joe's St. Paul (716),484 Lexington Pkwy S,St. Paul,MN,55105,651-698-3119,651-698-3119,https://locations.traderjoes.com/mn/st.-paul/716/
+Trader Joe's Glendale (711),5600 N Port Washington Rd,Milwaukee,WI,53217,414-962-3382,414-962-3382,https://locations.traderjoes.com/wi/milwaukee/711/
+Trader Joe's San Luis Obispo (41),3977 Higuera Street,San Luis Obispo,CA,93401,805-783-2780,805-783-2780,https://locations.traderjoes.com/ca/san-luis-obispo/41/
+Trader Joe's OrlandoDr. Phillips (768),8323 Sand Lake Rd,Orlando,FL,32819,407-345-0611,407-345-0611,https://locations.traderjoes.com/fl/orlando/768/
+Trader Joe's Concord (60),1150 Concord Ave,Concord,CA,94520,925-689-2990,925-689-2990,https://locations.traderjoes.com/ca/concord/60/
+Trader Joe's Dallas North (401),7939 Walnut Hill Lane,Dallas,TX,75230,214-346-6579,214-346-6579,https://locations.traderjoes.com/tx/dallas/401/
+Trader Joe's San Diego - Hillcrest (26),1090 University Avenue,San Diego,CA,92103,619-296-3122,619-296-3122,https://locations.traderjoes.com/ca/san-diego/26/
+Trader Joe's Mountain View (81),590 Showers Dr,Mountain View,CA,94040,650-917-1013,650-917-1013,https://locations.traderjoes.com/ca/mountain-view/81/
+Trader Joe's Norcross - Peachtree Corners (734),5185 Peachtree Pkwy,Norcross,GA,30092,678-966-9236,678-966-9236,https://locations.traderjoes.com/ga/norcross/734/
+Trader Joe's Wilshire (253),2300 Wilshire Blvd #101,Santa Monica,CA,90403,310-264-2223,310-264-2223,https://locations.traderjoes.com/ca/santa-monica/253/
+Trader Joe's Huntington Beach (47),18681 Main St,Huntington Beach,CA,92648,714-848-9640,714-848-9640,https://locations.traderjoes.com/ca/huntington-beach/47/
+Trader Joe's Commack (551),5900 Jericho Turnpike,Commack,NY,11725,631-499-0898,631-499-0898,https://locations.traderjoes.com/ny/commack/551/
+Trader Joe's Boca Raton (773),855 S Federal Hwy,Boca Raton,FL,33432,561-338-5031,561-338-5031,https://locations.traderjoes.com/fl/boca-raton/773/
+Trader Joe's Seattle - Queen Anne Hill (135),1916 Queen Anne Ave N,Seattle,WA,98109,206-284-2546,206-284-2546,https://locations.traderjoes.com/wa/seattle/135/
+Trader Joe's Santa Monica (6),3212 Pico Blvd,Santa Monica,CA,90405,310-581-0253,310-581-0253,https://locations.traderjoes.com/ca/santa-monica/6/
+Trader Joe's Jacksonville (769),11112 San Jose Blvd,Jacksonville,FL,32223,904-880-0582,904-880-0582,https://locations.traderjoes.com/fl/jacksonville/769/
+Trader Joe's Brookfield (726),12665 W. Bluemound Rd,Brookfield,WI,53005,262-784-4806,262-784-4806,https://locations.traderjoes.com/wi/brookfield/726/
+Trader Joe's Libertyville (704),1600 S Milwaukee Ave,Libertyville,IL,60048,847-680-1739,847-680-1739,https://locations.traderjoes.com/il/libertyville/704/
+Trader Joe's Tempe (93),6460 S McClintock Dr,Tempe,AZ,85283,480-838-4142,480-838-4142,https://locations.traderjoes.com/az/tempe/93/
+Trader Joe's Acton (511),145 Great Rd,Acton,MA,01720,978-266-8908,978-266-8908,https://locations.traderjoes.com/ma/acton/511/
+Trader Joe's Knoxville (663),8001 Kingston Pike,Knoxville,TN,37919,865-670-4088,865-670-4088,https://locations.traderjoes.com/tn/knoxville/663/
+Trader Joe's San Ramon (246),300 Market Place,San Ramon,CA,94583,925-275-8140,925-275-8140,https://locations.traderjoes.com/ca/san-ramon/246/
+Trader Joe's Richmond (786),3000 Stony Point Rd,Richmond,VA,23235,804-323-4292,804-323-4292,https://locations.traderjoes.com/va/richmond/786/
+Trader Joe's Austin - Rollingwood (453),2805 Bee Cave Rd,Austin,TX,78746,512-306-1032,512-306-1032,https://locations.traderjoes.com/tx/austin/453/
+Trader Joe's Las Vegas - Centennial Hills (98),5639 Centennial Ctr Blvd,Las Vegas,NV,89149,702-396-3372,702-396-3372,https://locations.traderjoes.com/nv/las-vegas/98/
+Trader Joe's Camarillo (114),363 Carmen Dr,Camarillo,CA,93010,805-388-1925,805-388-1925,https://locations.traderjoes.com/ca/camarillo/114/
+Trader Joe's Seattle - Capitol Hill (130),1700 Madison St,Seattle,WA,98122,206-322-7268,206-322-7268,https://locations.traderjoes.com/wa/seattle/130/
+Trader Joe's Tustin (197),1198 Irvine Blvd.,Tustin,CA,92780,714-505-3289,714-505-3289,https://locations.traderjoes.com/ca/tustin/197/
+Trader Joe's Westwood (602),20 Irvington St,Westwood,NJ,07675,201-263-0134,201-263-0134,https://locations.traderjoes.com/nj/westwood/602/
+Trader Joe's Columbia (753),4516 Forest Drive,Columbia,SC,29206,803-790-2404,803-790-2404,https://locations.traderjoes.com/sc/columbia/753/
+Trader Joe's Houston - Alabama Theater (426),2922 S Shepherd Drive,Houston,TX,77098,713-526-4034,713-526-4034,https://locations.traderjoes.com/tx/houston/426/
+Trader Joe's Glendale (53),103 E Glenoaks Blvd,Glendale,CA,91207,818-507-8192,818-507-8192,https://locations.traderjoes.com/ca/glendale/53/
+Trader Joe's Granada Hills (44),11114 Balboa Blvd,Granada Hills,CA,91344,818-368-6461,818-368-6461,https://locations.traderjoes.com/ca/granada-hills/44/
+Trader Joe's Plainview (555),425 S Oyster Bay Rd,Plainview,NY,11803,516-933-6900,516-933-6900,https://locations.traderjoes.com/ny/plainview/555/
+Trader Joe's Chicago - River North (696),44 E Ontario St,Chicago,IL,60611,312-951-6369,312-951-6369,https://locations.traderjoes.com/il/chicago/696/
+Trader Joe's Santa Cruz (193),700 Front St,Santa Cruz,CA,95060,831-425-0140,831-425-0140,https://locations.traderjoes.com/ca/santa-cruz/193/
+Trader Joe's West Hills (50),6751 Fallbrook Ave,West Hills,CA,91307,818-347-2591,818-347-2591,https://locations.traderjoes.com/ca/west-hills/50/
+Trader Joe's Scottsdale (94),6202 N Scottsdale Rd,Scottsdale,AZ,85253,480-948-9886,480-948-9886,https://locations.traderjoes.com/az/scottsdale/94/
+Trader Joe's Towson (649),800 Kenilworth Drive,Towson,MD,21204,410-321-0276,410-321-0276,https://locations.traderjoes.com/md/towson/649/
+Trader Joe's Oak Park (697),483 N Harlem Ave,Oak Park,IL,60301,708-386-1169,708-386-1169,https://locations.traderjoes.com/il/oak-park/697/
+Trader Joe's Cathedral City (118),67720 E Palm Canyon Dr,Cathedral City,CA,92234,760-202-0090,760-202-0090,https://locations.traderjoes.com/ca/cathedral-city/118/
+Trader Joe's Brentwood (692),48 Brentwood Promenade Court,Brentwood,MO,63144,314-963-0253,314-963-0253,https://locations.traderjoes.com/mo/brentwood/692/
+Trader Joe's Newport News (656),12551 Jefferson Ave,Newport News,VA,23602,757-890-0235,757-890-0235,https://locations.traderjoes.com/va/newport-news/656/
+Trader Joe's Oakland - Rockridge (231),5727 College Ave,Oakland,CA,94618,510-923-9428,510-923-9428,https://locations.traderjoes.com/ca/oakland/231/
+Trader Joe's Pikesville (655),1809 Reisterstown Rd,Pikesville,MD,21208,410-484-8373,410-484-8373,https://locations.traderjoes.com/md/pikesville/655/
+Trader Joe's Bend (150),63455 N Hwy 97,Bend,OR,97701,541-312-4198,541-312-4198,https://locations.traderjoes.com/or/bend/150/
+Trader Joe's La Quinta (189),46400 Washington St,La Quinta,CA,92253,760-777-1553,760-777-1553,https://locations.traderjoes.com/ca/la-quinta/189/
+Trader Joe's Reno (82),5035 S McCarran Blvd,Reno,NV,89502,775-826-1621,775-826-1621,https://locations.traderjoes.com/nv/reno/82/
+Trader Joe's Davis (182),885 Russell Blvd,Davis,CA,95616,530-757-2693,530-757-2693,https://locations.traderjoes.com/ca/davis/182/
+Trader Joe's Brooklyn (558),130 Court St,Brooklyn,NY,11201,718-246-8460,718-246-8460,https://locations.traderjoes.com/ny/brooklyn/558/
+Trader Joe's Napa (128),3654 Bel Aire Plaza,Napa,CA,94558,707-256-0806,707-256-0806,https://locations.traderjoes.com/ca/napa/128/
+Trader Joe's Indianapolis - Castleton (671),5473 E 82nd St,Indianapolis,IN,46250,317-595-8950,317-595-8950,https://locations.traderjoes.com/in/indianapolis/671/
+Trader Joe's Albuquerque (166),8928 Holly Ave NE,Albuquerque,NM,87122,505-796-0311,505-796-0311,https://locations.traderjoes.com/nm/albuquerque/166/
+Trader Joe's San Clemente (16),638 Camino de Los Mares,San Clemente,CA,92673,949-240-9996,949-240-9996,https://locations.traderjoes.com/ca/san-clemente/16/
+Trader Joe's Thousand Oaks (196),451 Avenida De Los Arboles,Thousand Oaks,CA,91360,805-492-7107,805-492-7107,https://locations.traderjoes.com/ca/thousand-oaks/196/
+Trader Joe's Sarasota (761),4101 S Tamiami Trail,Sarasota,FL,34231,941-922-5727,941-922-5727,https://locations.traderjoes.com/fl/sarasota/761/
+Trader Joe's West Los Angeles - Sepulveda (119),3456 S Sepulveda Blvd,Los Angeles,CA,90034,310-836-2458,310-836-2458,https://locations.traderjoes.com/ca/los-angeles/119/
+Trader Joe's Tampa (766),3808 W Swann Ave,Tampa,FL,33609,813-872-6846,813-872-6846,https://locations.traderjoes.com/fl/tampa/766/
+Trader Joe's Oklahoma City - Nichols Hills (461),6409 Avondale Dr,Nichols Hills,OK,73116,405-843-5655,405-843-5655,https://locations.traderjoes.com/ok/nichols-hills/461/
+Trader Joe's 72nd & Broadway (542),2073 Broadway,New York,NY,10023,212-799-0028,212-799-0028,https://locations.traderjoes.com/ny/new-york/542/
+Trader Joe's Salem (153),4450 Commercial St SE,Salem,OR,97302,503-378-9042,503-378-9042,https://locations.traderjoes.com/or/salem/153/
+Trader Joe's La Canada (42),475 Foothill Blvd,La Canada,CA,91011,818-790-6373,818-790-6373,https://locations.traderjoes.com/ca/la-canada/42/
+Trader Joe's Mission Valley (222),1072 Camino Del Rio North,San Diego,CA,92108,619-297-0749,619-297-0749,https://locations.traderjoes.com/ca/san-diego/222/
+Trader Joe's State College (629),243 Patriot Lane,State College,PA,16803,814-234-2224,814-234-2224,https://locations.traderjoes.com/pa/state-college/629/
+Trader Joe's Hartsdale (533),215 N Central Ave,Hartsdale,NY,10530,914-997-1960,914-997-1960,https://locations.traderjoes.com/ny/hartsdale/533/
+Trader Joe's Aliso Viejo (195),26541 Aliso Creek Rd,Aliso Viejo,CA,92656,949-643-5531,949-643-5531,https://locations.traderjoes.com/ca/aliso-viejo/195/
+Trader Joe's Lake Oswego (142),15391 SW Bangy Rd,Lake Oswego,OR,97035,503-639-3238,503-639-3238,https://locations.traderjoes.com/or/lake-oswego/142/
+Trader Joe's Somerville (560),145 Middlesex Ave,Somerville,MA,02145,617-591-0124,617-591-0124,https://locations.traderjoes.com/ma/somerville/560/
+Trader Joe's Florham Park (604),176 Columbia Turnpike,Florham Park,NJ,07932,973-377-0679,973-377-0679,https://locations.traderjoes.com/nj/florham-park/604/
+Trader Joe's Fairfield (101),1350 Gateway Blvd,Fairfield,CA,94533,707-434-0144,707-434-0144,https://locations.traderjoes.com/ca/fairfield/101/
+Trader Joe's Boise (360),300 S Capitol Blvd,Boise,ID,83702,208-336-7282,208-336-7282,https://locations.traderjoes.com/id/boise/360/
+Trader Joe's Redmond (140),15932 Redmond Way,Redmond,WA,98052,425-883-1624,425-883-1624,https://locations.traderjoes.com/wa/redmond/140/
+Trader Joe's Danbury (525),113 Mill Plain Rd,Danbury,CT,06811,203-739-0098,203-739-0098,https://locations.traderjoes.com/ct/danbury/525/
+Trader Joe's Chico (199),801 East Ave,Chico,CA,95926,530-343-9920,530-343-9920,https://locations.traderjoes.com/ca/chico/199/
+Trader Joe's Lafayette (115),3649 Mt Diablo Blvd,Lafayette,CA,94549,925-299-9344,925-299-9344,https://locations.traderjoes.com/ca/lafayette/115/
+Trader Joe's Winston Salem (749),252 South Stratford Road,Winston Salem,NC,27103,336-721-1744,336-721-1744,https://locations.traderjoes.com/nc/winston-salem/749/
+Trader Joe's Pittsburgh North Hills (624),9020 Covenant Ave,Pittsburgh,PA,15237,412-366-1131,412-366-1131,https://locations.traderjoes.com/pa/pittsburgh/624/
+Trader Joe's San Mateo - Hillsdale (245),45 W Hillsdale Blvd,San Mateo,CA,94403,650-286-1509,650-286-1509,https://locations.traderjoes.com/ca/san-mateo/245/
+Trader Joe's Ithaca (568),744 S Meadow Street,Ithaca,NY,14850,607-272-1420,607-272-1420,https://locations.traderjoes.com/ny/ithaca/568/
+Trader Joe's Charlotte - North (743),1820 E Arbors Dr,Charlotte,NC,28262,704-688-9578,704-688-9578,https://locations.traderjoes.com/nc/charlotte/743/
+Trader Joe's Everett (139),811 SE Everett Mall Way,Everett,WA,98208,425-513-2210,425-513-2210,https://locations.traderjoes.com/wa/everett/139/
+Trader Joe's Newington/Portsmouth (520),45 Gosling Rd,Portsmouth,NH,03801,603-431-2654,603-431-2654,https://locations.traderjoes.com/nh/portsmouth/520/
+Trader Joe's St. Louis Park (710),4500 Excelsior Blvd,St. Louis Park,MN,55416,952-285-1053,952-285-1053,https://locations.traderjoes.com/mn/st.-louis-park/710/
+Trader Joe's West Hollywood (40),7310 Santa Monica Blvd,West Hollywood,CA,90046,323-969-8048,323-969-8048,https://locations.traderjoes.com/ca/west-hollywood/40/
+Trader Joe's Algonquin (699),1800 S Randall Rd,Algonquin,IL,60102,847-854-4886,847-854-4886,https://locations.traderjoes.com/il/algonquin/699/
+Trader Joe's Roswell (733),635 W Crossville Rd,Roswell,GA,30075,770-645-8505,770-645-8505,https://locations.traderjoes.com/ga/roswell/733/
+Trader Joe's Long Island City (565),2243 Jackson Ave,Long Island City,NY,11101,718-472-2672,718-472-2672,https://locations.traderjoes.com/ny/long-island-city/565/
+Trader Joe's Corvallis (154),1550 NW 9th St,Corvallis,OR,97330,541-753-0048,541-753-0048,https://locations.traderjoes.com/or/corvallis/154/
+Trader Joe's Hermosa Beach (248),1100 Pacific Coast Hwy,Hermosa Beach,CA,90254,310-318-1767,310-318-1767,https://locations.traderjoes.com/ca/hermosa-beach/248/
+Trader Joe's Monrovia (112),604 W Huntington Dr,Monrovia,CA,91016,626-358-8884,626-358-8884,https://locations.traderjoes.com/ca/monrovia/112/
+Trader Joe's Monterey (204),570 Munras Ave,Monterey,CA,93940,831-372-2010,831-372-2010,https://locations.traderjoes.com/ca/monterey/204/
+Trader Joe's Cerritos (104),12861 Towne Center Dr,Cerritos,CA,90703,562-402-5148,562-402-5148,https://locations.traderjoes.com/ca/cerritos/104/
+Trader Joe's Millburn (609),187 Millburn Ave,Millburn,NJ,07041,973-218-0912,973-218-0912,https://locations.traderjoes.com/nj/millburn/609/
+Trader Joe's San Jose - Old Almaden (63),5353 Almaden Expressway #J-38,San Jose,CA,95118,408-264-8120,408-264-8120,https://locations.traderjoes.com/ca/san-jose/63/
+Trader Joe's Menlo Park (69),720 Menlo Ave,Menlo Park,CA,94025,650-323-2134,650-323-2134,https://locations.traderjoes.com/ca/menlo-park/69/
+Trader Joe's Washington - Capitol Hill (622),750 Pennsylvania Ave SE,Washington,DC,20003,202-698-0190,202-698-0190,https://locations.traderjoes.com/dc/washington/622/
+Trader Joe's SoHo (539),233 Spring Street,New York,NY,10013,212-691-2721,212-691-2721,https://locations.traderjoes.com/ny/new-york/539/
+Trader Joe's Cottonwood Heights (351),6989 S 1300 E,Cottonwood Heights,UT,84047,801-562-3024,801-562-3024,https://locations.traderjoes.com/ut/cottonwood-heights/351/
+Trader Joe's Fairfax (643),9464 Main St,Fairfax,VA,22031,703-764-8550,703-764-8550,https://locations.traderjoes.com/va/fairfax/643/
+Trader Joe's Philadelphia - Center City (634),2121 Market St,Philadelphia,PA,19103,215-569-9282,215-569-9282,https://locations.traderjoes.com/pa/philadelphia/634/
+Trader Joe's Wayne (632),171 E Swedesford Rd,Wayne,PA,19087,610-225-0925,610-225-0925,https://locations.traderjoes.com/pa/wayne/632/
+Trader Joe's Temecula (102),40665 Winchester Rd,Temecula,CA,92591,951-296-9964,951-296-9964,https://locations.traderjoes.com/ca/temecula/102/
+Trader Joe's Bedford (562),2 Market Street,Bedford,NH,03110,603-222-3074,603-222-3074,https://locations.traderjoes.com/nh/bedford/562/
+Trader Joe's USC Village (250),3131 S Hoover Street,Los Angeles,CA,90089-1920,213-749-1497,213-749-1497,https://locations.traderjoes.com/ca/los-angeles/250/
+Trader Joe's Woodmere (676),28425 Chagrin Blvd,Woodmere,OH,44122,216-591-9457,216-591-9457,https://locations.traderjoes.com/oh/woodmere/676/
+Trader Joe's Petaluma (107),169 N McDowell Blvd,Petaluma,CA,94954,707-769-2782,707-769-2782,https://locations.traderjoes.com/ca/petaluma/107/
+Trader Joe's Schaumburg (705),1426 E Golf Rd,Schaumburg,IL,60173,847-619-0095,847-619-0095,https://locations.traderjoes.com/il/schaumburg/705/
+Trader Joe's San Francisco - Stonestown (236),265 Winston Dr,San Francisco,CA,94132,415-665-1835,415-665-1835,https://locations.traderjoes.com/ca/san-francisco/236/
+Trader Joe's Henderson (97),2716 N Green Valley Pkwy,Henderson,NV,89014,702-433-6773,702-433-6773,https://locations.traderjoes.com/nv/henderson/97/
+Trader Joe's Portland - Hollywood (144),4121 NE Halsey St,Portland,OR,97232,503-284-4232,503-284-4232,https://locations.traderjoes.com/or/portland/144/
+Trader Joe's Kenwood (669),7788 Montgomery Rd,Cincinnati,OH,45236,513-984-3452,513-984-3452,https://locations.traderjoes.com/oh/cincinnati/669/
+Trader Joe's Fort Myers (784),4983 S. Cleveland Avenue,Fort Myers,FL,33907,239-275-1712,239-275-1712,https://locations.traderjoes.com/fl/fort-myers/784/
+Trader Joe's Hewlett (554),1280 West Broadway,Hewlett,NY,11557,516-569-7191,516-569-7191,https://locations.traderjoes.com/ny/hewlett/554/
+Trader Joe's Yorba Linda (176),19655 Yorba Linda Blvd,Yorba Linda,CA,92886,714-970-0116,714-970-0116,https://locations.traderjoes.com/ca/yorba-linda/176/
+Trader Joe's Littleton (306),8055 West Bowles Ave,Littleton,CO,80123,720-981-4563,720-981-4563,https://locations.traderjoes.com/co/littleton/306/
+Trader Joe's Las Vegas - Downtown Summerlin (284),2315 Summa Dr Ste 100,Las Vegas,NV,89135,702-242-0597,702-242-0597,https://locations.traderjoes.com/nv/las-vegas/284/
+Trader Joe's Southlake (406),1492 E Southlake Blvd,Southlake,TX,76092,817-251-0360,817-251-0360,https://locations.traderjoes.com/tx/southlake/406/
+Trader Joe's South Burlington (527),200 Dorset St,South Burlington,VT,05403,802-658-4500,802-658-4500,https://locations.traderjoes.com/vt/south-burlington/527/
+Trader Joe's Ann Arbor (678),2398 East Stadium Blvd,Ann Arbor,MI,48104,734-975-2455,734-975-2455,https://locations.traderjoes.com/mi/ann-arbor/678/
+Trader Joe's Palmdale (185),39507 10th St W,Palmdale,CA,93551,661-947-2890,661-947-2890,https://locations.traderjoes.com/ca/palmdale/185/
+Trader Joe's Burien (133),15868 1st Ave S,Burien,WA,98148,206-901-9339,206-901-9339,https://locations.traderjoes.com/wa/burien/133/
+Trader Joe's Rancho Cucamonga (217),6401 Haven Ave,Rancho Cucamonga,CA,91737,909-476-1410,909-476-1410,https://locations.traderjoes.com/ca/rancho-cucamonga/217/
+Trader Joe's Tallahassee (763),3425 Thomasville Rd,Tallahassee,FL,32309,850-894-2538,850-894-2538,https://locations.traderjoes.com/fl/tallahassee/763/
+Trader Joe's Chicago - Lincoln Park (691),1840 N Clybourn Ave,Chicago,IL,60614,312-274-9733,312-274-9733,https://locations.traderjoes.com/il/chicago/691/
+Trader Joe's Concord (83),785 Oak Grove Rd,Concord,CA,94518,925-521-1134,925-521-1134,https://locations.traderjoes.com/ca/concord/83/
+Trader Joe's San Diego - Point Loma (188),2401 Truxtun Rd,San Diego,CA,92106,619-758-9272,619-758-9272,https://locations.traderjoes.com/ca/san-diego/188/
+Trader Joe's Sandy Springs (731),6277 Roswell Road NE,Sandy Springs,GA,30328,404-236-2414,404-236-2414,https://locations.traderjoes.com/ga/sandy-springs/731/
+Trader Joe's Scarsdale (531),727 White Plains Rd,Scarsdale,NY,10583,914-472-2988,914-472-2988,https://locations.traderjoes.com/ny/scarsdale/531/
