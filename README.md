@@ -25,5 +25,9 @@ https://www.kaggle.com/datasets/thedevastator/kroger-store-locations-available-f
 https://www.kaggle.com/datasets/polartech/complete-store-locations-of-costco
 
 #### 2. Illness:
--2.1 data-table.csv:\
-https://www.cdc.gov/nchs/pressroom/sosmap/heart_disease_mortality/heart_disease.htm
+-2.1 IHME_USA_COUNTY_DIABETES_PREVALENCE_1999_2012_NATIONAL_Y2016M08D23.xlsx:\
+https://ghdx.healthdata.org/record/ihme-data/united-states-diabetes-prevalence-county-1999-2012
+
+
+-2.2 uscities.xlsx:\
+https://simplemaps.com/data/us-cities
