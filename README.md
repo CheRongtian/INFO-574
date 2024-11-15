@@ -6,7 +6,7 @@
 4. Professor: Shanti Greene
 ### Datasets:
 #### 1. Groceries:
--1.1 cbp22co.txt (Over 100MB, failed to upload):\
+-1.1 cbp22co.txt (Over 100MB, use zip form here):\
     Thanks Professor Greene's help for the data\
 https://www.census.gov/data/datasets/2022/econ/cbp/2022-cbp.html
 
