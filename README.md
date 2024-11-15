@@ -6,28 +6,22 @@
 4. Professor: Shanti Greene
 ### Datasets:
 #### 1. Groceries:
--1.1 store_info.csv:\
-https://www.kaggle.com/datasets/evansimpson/trader-joes-locations
-
--1.2 walmart_2018_11_06.csv:\
-https://www.kaggle.com/datasets/thedevastator/walmart-store-locations-across-the-united-states
-
--1.3 original_wf_data.csv:\
-https://www.kaggle.com/datasets/adu47249/whole-foods
-
--1.4 target.csv, targets.csv:\
-https://www.kaggle.com/datasets/ben1989/target-store-dataset
-
--1.5 kroger_store.csv:\
-https://www.kaggle.com/datasets/thedevastator/kroger-store-locations-available-for-research
-
--1.6 costco_store.csv:\
-https://www.kaggle.com/datasets/polartech/complete-store-locations-of-costco
+-1.1 cbp22co.txt (Over 100MB, failed to upload):\
+    Thanks Professor Greene's help for the data\
+https://www.census.gov/data/datasets/2022/econ/cbp/2022-cbp.html
 
 #### 2. Illness:
 -2.1 IHME_USA_COUNTY_DIABETES_PREVALENCE_1999_2012_NATIONAL_Y2016M08D23.xlsx:\
 https://ghdx.healthdata.org/record/ihme-data/united-states-diabetes-prevalence-county-1999-2012
 
+#### 3. Education:
+-3.1 Education.xlsx:\
+https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data/
 
--2.2 uscities.xlsx:\
-https://simplemaps.com/data/us-cities
+#### 4. Income:
+-4.1 lapi1124.xlsx:\
+https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas
+
+#### 5. County:
+-5.1 uscounties.csv:\
+https://simplemaps.com/data/us-counties
