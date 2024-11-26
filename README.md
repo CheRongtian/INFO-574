@@ -27,9 +27,9 @@ https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-ar
 https://simplemaps.com/data/us-counties
 
 #### 6. Crime Rate:
--6.1 crime_data_w_population_and_crime_rate.csv
+-6.1 crime_data_w_population_and_crime_rate.csv:\
 https://www.kaggle.com/datasets/mikejohnsonjr/united-states-crime-rates-by-county
 
 #### 7. Race:
--7.1 county_demographics.csv
+-7.1 county_demographics.csv:\
 https://corgis-edu.github.io/corgis/csv/county_demographics
